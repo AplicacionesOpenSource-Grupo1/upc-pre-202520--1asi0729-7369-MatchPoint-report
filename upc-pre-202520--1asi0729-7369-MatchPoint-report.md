@@ -24,7 +24,7 @@
 | Member                           |    Code    |
 | :------------------------------- | :--------: |
 | Javier Murillo, Mathias | U202022211 |
-|  |  |
+| Angulo Abud, Juan Carlos | U202317692 |
 |  |  |
 |  |  |
 |  |  |
