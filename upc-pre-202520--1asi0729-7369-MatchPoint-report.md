@@ -510,6 +510,48 @@ PPara optimizar la visibilidad y accesibilidad de EcoTrip en motores de búsqued
 | Web Application - Perfil Usuario | PlayMatch - Mi Perfil                              | Gestiona tus datos, reservas y suscripciones fácilmente con PlayMatch.                               | perfil usuario PlayMatch, reservas deportivas, suscripciones deportivas                    | Equipo PlayMatch |
 
 ### 4.2.4. Searching Systems
+
+Para mejorar la **capacidad de búsqueda** dentro del sitio web y la aplicación, se implementarán sistemas claros, efectivos y centrados en la experiencia deportiva.
+
+#### Tipos de búsqueda ofrecidos
+
+- **Búsqueda Global (Header Search Box):**
+
+  - Visible en todas las páginas principales.
+  - Permite buscar canchas, entrenadores o torneos.
+  - Incluye **autocompletado** con sugerencias relevantes (ejemplo: “Fútbol en San Miguel”, “Entrenador de vóley”, “Torneo de básquet”).
+
+- **Filtros de búsqueda en "Explorar experiencias":**
+
+  - **Tipo de deporte** (Fútbol, Vóley, Básquet, Tenis, Otros).
+  - **Ubicación** (distrito, ciudad, zona cercana mediante geolocalización).
+  - **Disponibilidad horaria** (mañana, tarde, noche, fecha específica).
+  - **Precio** (rango económico ajustable).
+  - **Nivel de entrenador** (Básico, Intermedio, Avanzado).
+  - **Valoración** (según reseñas de usuarios).
+
+- **Búsqueda específica en el perfil de entrenadores/canchas:**
+  - Por nombre del entrenador o nombre del recinto.
+  - Por calificación promedio de usuarios.
+
+#### Presentación de resultados
+
+- **Resultados dinámicos:** el listado se actualizará en tiempo real al aplicar filtros o realizar búsquedas.
+- **Organización matricial:** cada resultado se mostrará en forma de card con:
+
+  - Imagen de la cancha o entrenador.
+  - Nombre y categoría.
+  - Valoración promedio.
+  - Botón de acción destacado (Reservar, Ver disponibilidad).
+
+- **Resultados ordenables:** por:
+  - relevancia
+  - precio
+  - valoración
+  - Disponibilidad más próxima.
+ 
+Con este sistema, PlayMatch ofrece búsquedas rápidas, comparaciones claras y filtros relevantes que permiten a los usuarios encontrar lo que necesitan sin complicaciones.
+
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
