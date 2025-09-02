@@ -467,6 +467,38 @@ Según el tipo de contenido, se aplicarán distintos esquemas:
 Esto permite un acceso eficiente, adaptado a las distintas formas en que los usuarios buscan canchas o entrenadores.
 
 ### 4.2.2. Labeling Systems
+
+La representación de los datos en la plataforma busca ser clara, intuitiva y evitar confusión. Para ello se establecen las siguientes directrices de etiquetado:
+
+#### Principios de Etiquetado
+
+- Utilizar un **mínimo número de palabras**.
+- Preferir términos **comunes en el ámbito deportivo** y **fáciles de comprender**.
+- Mantener **consistencia** en la terminología a lo largo de la aplicacion.
+
+#### Etiquetas principales propuestas
+
+| Área                    | Etiqueta asignada          | Propósito                           |
+| ----------------------- | -------------------------- | ----------------------------------- |
+| Exploración             | "Explorar Canchas"         | Navegar entre experiencias.         |
+| Entrenadores            | "Entrenadores              | Buscar y reservar entrenadores independientes. |
+| Reservas                | "Mis Reservas"             | Historial de reservas confirmadas.  |
+| Suscripción             | "Mi plan"                  | Acceso al plan actual y opciones de upgrade.|
+| Torneos                 | "Torneos"                  | Participar o crear torneos organizados.      |
+| Búsqueda                | "Buscar"                   | Entrada de texto para buscar canchas/entrenadores.  |
+| Perfil                  | "Mi Perfil"                | Datos personales del usuario.       |
+
+Además, las etiquetas dentro de los filtros utilizarán palabras clave simples como:
+
+- "Tipo de deporte" (fútbol, vóley, básquet, tenis).
+- "Ubicación" (distrito o zona).
+- "Horario disponible".
+- "Precio".
+- "Nivel del entrenador" (básico, intermedio, avanzado).
+- "Valoración" (por estrellas o reseñas).
+
+Esto facilita que tanto **deportistas** como **entrenadores** interpreten de inmediato las opciones disponibles sin necesidad de explicaciones adicionales..
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
