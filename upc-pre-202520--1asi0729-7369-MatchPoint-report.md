@@ -232,7 +232,7 @@ De esta manera, PlayMatch se convierte en un ecosistema que integra oferta y dem
 | Integrantes | Descripción | Conocimientos |
 | :---------- | :---------- | :------------ |
 | <div style="display: flex; align-items: center;"><img src="img/.png" alt="Integrante1" width="100" height="120">&nbsp;&nbsp;<br>**Mathias Javier Murillo**<br>u202022211</div> | Estudiante de Ingeniería de Software. Apasionado por las nuevas tecnologías y realizar nuevos proyectos | Conocimientos en SQL, HTML, JS, CSS y Python |
-| <div style="display: flex; align-items: center;"><img src="img/.png" alt="Integrante2" width="100" height="120">&nbsp;&nbsp;<br>**Nombre del integrante**<br>Código universitario</div> |  |  |
+| <div style="display: flex; align-items: center;"><img src="img/.png" alt="Integrante2" width="100" height="120">&nbsp;&nbsp;<br>**Andy Mio Mejia**<br>u202218531</div> | Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación | Java, C++, Python, html, css, javascrip, C# y SQL |
 | <div style="display: flex; align-items: center;"><img src="img/.png" alt="Integrante3" width="100" height="120">&nbsp;&nbsp;<br>**Nombre del integrante**<br>Código universitario</div> |  |  |
 | <div style="display: flex; align-items: center;"><img src="img/.png" alt="Integrante4" width="100" height="120">&nbsp;&nbsp;<br>**Nombre del integrante**<br>Código universitario</div> |  |  |
 | <div style="display: flex; align-items: center;"><img src="img/.png" alt="Integrante5" width="100" height="120">&nbsp;&nbsp;<br>**Nombre del integrante**<br>Código universitario</div> |  |  |
@@ -398,7 +398,7 @@ https://miro.com/welcomeonboard/MXdjbmptRWZsMStuTWpROTJsb2VDQS9yRlJ5bzV1YUo0S2J4
 
 ## 4.1. Style Guidelines
 
-Con el objetivo de asegurar coherencia visual y comunicacional a lo largo de todos los puntos de contacto con los usuarios, se define una guía de estilo centralizada para el equipo de diseño y desarrollo. Esta guía permitirá mantener una presentación consistente tanto en plataformas web como móviles, alineada con los valores de sostenibilidad, inclusión y responsabilidad promovidos por MatchPoint
+Con el objetivo de asegurar coherencia visual y comunicacional a lo largo de todos los puntos de contacto con los usuarios, se define una guía de estilo centralizada para el equipo de diseño y desarrollo. Esta guía permitirá mantener una presentación consistente tanto en plataformas web como móviles, alineada con los valores de sostenibilidad, inclusión y responsabilidad promovidos por PlayMatch
 
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
