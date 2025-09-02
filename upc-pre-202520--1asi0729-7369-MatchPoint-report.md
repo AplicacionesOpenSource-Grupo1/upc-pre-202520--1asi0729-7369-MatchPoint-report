@@ -500,6 +500,15 @@ Además, las etiquetas dentro de los filtros utilizarán palabras clave simples 
 Esto facilita que tanto **deportistas** como **entrenadores** interpreten de inmediato las opciones disponibles sin necesidad de explicaciones adicionales..
 
 ### 4.2.3. SEO Tags and Meta Tags
+
+PPara optimizar la visibilidad y accesibilidad de EcoTrip en motores de búsqueda, se establecen los siguientes **SEO Tags** y **Meta Tags** que serán implementados tanto en el **Landing Page** como en la **Web Application**:
+
+| Página                           | Title                                            | Meta Description            | Meta Keywords            | Author         |
+| -------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------- |
+| Landing Page                     | PlayMatch - Reserva Canchas y Entrenadores         | Encuentra y reserva canchas deportivas y entrenadores independientes de forma rápida, segura y confiable. | canchas deportivas, reservar cancha, entrenadores deportivos, PlayMatch | Equipo PlayMatch |
+| Web Application - Home           | PlayMatch App - Juega y Entrena sin Complicaciones | Organiza partidos, encuentra entrenadores y gestiona tus reservas deportivas en un solo lugar.            | reservar cancha online, entrenadores deportivos, gestión de partidos | Equipo PlayMatch |
+| Web Application - Perfil Usuario | PlayMatch - Mi Perfil                              | Gestiona tus datos, reservas y suscripciones fácilmente con PlayMatch.                               | perfil usuario PlayMatch, reservas deportivas, suscripciones deportivas                    | Equipo PlayMatch |
+
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
