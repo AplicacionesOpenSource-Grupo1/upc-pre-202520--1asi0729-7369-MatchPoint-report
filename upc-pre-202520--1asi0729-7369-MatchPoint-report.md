@@ -374,3 +374,19 @@ Creemos que si incorporamos funciones de organización de torneos y comunicació
 
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/99f11913269b58ff6c0a5a9f363cb8fd9ff5f6c5/images/Lean%20UX%20Canvas%20-%20PlayMatch.jpg" width="900" height="900">
 https://miro.com/welcomeonboard/MXdjbmptRWZsMStuTWpROTJsb2VDQS9yRlJ5bzV1YUo0S2J4dGp0eWxkMC83QzY4cnhzZXQzSTk4WmlOc2FORlZFS1VQbTN2VnNxdkNVUS8yN1ZBNmxHVVA4c09zU3YrV1dGaFlMMjVZbUpjRmpaNDV4NDU0YTUvbEFUWVk4UlJBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=781097795663
+
+# 1.3. Segmentos Objetivo
+
+#### 1. Deportistas Aficionados (usuarios en búsqueda de canchas y entrenadores)
+- Jóvenes y adultos que practican deportes de forma recreativa o amateur.  
+- Equipos de amigos o comunidades deportivas que necesitan reservar canchas para partidos regulares.  
+- Personas que desean mejorar su rendimiento físico y técnico con apoyo de entrenadores.  
+- Usuarios que buscan opciones accesibles y confiables para organizar entrenamientos o torneos.  
+
+#### 2. Entrenadores Independientes (proveedores de servicios deportivos)
+- Profesionales deportivos y entrenadores personales que ofrecen clases en disciplinas como fútbol, tenis, pádel, básquet, vóley, etc.  
+- Entrenadores independientes que desean aumentar su visibilidad y captar más alumnos.  
+- Especialistas que buscan herramientas digitales para gestionar horarios, reservas y pagos de manera eficiente.  
+- Entrenadores que ya trabajan de forma informal pero carecen de una plataforma centralizada y segura para organizar sus servicios.  
+
+
