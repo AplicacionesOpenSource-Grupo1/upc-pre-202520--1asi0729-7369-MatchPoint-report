@@ -397,6 +397,9 @@ https://miro.com/welcomeonboard/MXdjbmptRWZsMStuTWpROTJsb2VDQS9yRlJ5bzV1YUo0S2J4
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
+
+Con el objetivo de asegurar coherencia visual y comunicacional a lo largo de todos los puntos de contacto con los usuarios, se define una guía de estilo centralizada para el equipo de diseño y desarrollo. Esta guía permitirá mantener una presentación consistente tanto en plataformas web como móviles, alineada con los valores de sostenibilidad, inclusión y responsabilidad promovidos por MatchPoint
+
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
