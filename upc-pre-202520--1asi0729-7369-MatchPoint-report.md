@@ -415,6 +415,57 @@ Las propuestas de arquitectura están diseñadas siguiendo principios de usabili
 - **Navigation Systems**
 
 ### 4.2.1. Organization Systems
+
+Se establecen las siguientes decisiones sobre la organización del contenido:
+
+#### Visual Hierarchy
+
+Se aplicará una **jerarquía visual clara** en todas las páginas, priorizando:
+
+- "Explorar Canchas"
+- "Entrenadores"
+- "Mis Reservas"
+- "Mi Suscripción"
+
+El tamaño, color y peso de los elementos gráficos ayudarán a guiar la atención del usuario hacia lo más relevante.
+
+#### Secuencial Organization
+
+En procesos clave como:
+
+- "Registro de Entrenadores"
+- "Creación de Torneos"
+- "Proceso de Reserva de Cancha o Entrenador"
+
+Se usará una **organización paso a paso**, facilitando al usuario completar acciones en orden lógico:
+
+Ejemplo del proceso de reserva de cancha:
+
+1. Seleccionar deporte.
+2. Escoger cancha disponible (según horario).
+3. Confirmar detalles (número de jugadores, duración).
+4. Realizar pago y recibir confirmación.
+
+#### Matricial Organization
+
+Para listas de canchas o entrenadores disponibles, se aplicará un modelo **matricial**:
+
+- Comparar opciones al mismo nivel.
+- Uso de filtros por: precio, cercanía, disponibilidad, nivel del entrenador, calificaciones.
+
+Esto permite que un deportista compare rápidamente entre diferentes canchas y entrenadores.
+
+#### Esquemas de Categorización
+
+Según el tipo de contenido, se aplicarán distintos esquemas:
+
+- **Por tópicos**: deportes (fútbol, vóley, tenis, básquet).
+- **Por audiencia**: canchas o entrenadores recomendados para “Jugadores ocasionales” vs. “Deportistas frecuentes”.
+- **Cronológico**: reservas próximas y partidos programados.
+- **Alfabético**: listado de entrenadores por nombre en catálogos extensos.
+
+Esto permite un acceso eficiente, adaptado a las distintas formas en que los usuarios buscan canchas o entrenadores.
+
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
