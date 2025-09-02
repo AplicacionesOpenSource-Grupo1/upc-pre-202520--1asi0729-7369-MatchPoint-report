@@ -372,5 +372,5 @@ Creemos que si incorporamos funciones de organización de torneos y comunicació
 
 #### 1.2.2.4. Lean UX Canvas
 
-<img src="" width="900" height="900">
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/99f11913269b58ff6c0a5a9f363cb8fd9ff5f6c5/images/Lean%20UX%20Canvas%20-%20PlayMatch.jpg" width="900" height="900">
 https://miro.com/welcomeonboard/MXdjbmptRWZsMStuTWpROTJsb2VDQS9yRlJ5bzV1YUo0S2J4dGp0eWxkMC83QzY4cnhzZXQzSTk4WmlOc2FORlZFS1VQbTN2VnNxdkNVUS8yN1ZBNmxHVVA4c09zU3YrV1dGaFlMMjVZbUpjRmpaNDV4NDU0YTUvbEFUWVk4UlJBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=781097795663
