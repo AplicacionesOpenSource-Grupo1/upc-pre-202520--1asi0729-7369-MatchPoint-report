@@ -778,7 +778,7 @@ Para la puesta en línea de nuestro proyecto, utilizamos Netlify, una plataforma
             <b>Date</b>
         </td>
         <td>
-            23/04/25         
+            15/09/25         
         </td>
     </tr>
     <tr align="left">
@@ -786,7 +786,7 @@ Para la puesta en línea de nuestro proyecto, utilizamos Netlify, una plataforma
             <b>Time</b>
         </td>
         <td>
-            10:00         
+            22:10         
         </td>
     </tr>
     <tr align="left">
@@ -794,7 +794,7 @@ Para la puesta en línea de nuestro proyecto, utilizamos Netlify, una plataforma
             <b>Location</b>
         </td>
         <td>
-            Modalidad Remota por Discord
+            Universidad Peruana de Ciencias Aplicadas - Sede Monterrico
         </td>
     </tr>
     <tr align="left">
@@ -802,7 +802,7 @@ Para la puesta en línea de nuestro proyecto, utilizamos Netlify, una plataforma
             <b>Prepared By</b>
         </td>
         <td>
-            Equipo Nova Asesores    
+            Equipo de MatchPoint    
         </td>
     </tr>
     <tr align="left">
@@ -823,7 +823,7 @@ Para la puesta en línea de nuestro proyecto, utilizamos Netlify, una plataforma
             <b>Review Summary</b>
         </td>
         <td>
-            No existe un sprint anterior para realizar el review, siendo este el primer sprint a desarrollar para FinTeka.  
+            No existe un sprint anterior para realizar el review, siendo este el primer sprint a desarrollar para PlayMatch.  
         </td>
     </tr>
     <tr align="left">
@@ -840,7 +840,7 @@ Para la puesta en línea de nuestro proyecto, utilizamos Netlify, una plataforma
             <b>Sprint 1 Goal</b>
         </td>
         <td>
-            El objetivo del sprint es construir la landing page de FinTeka con una interfaz moderna, clara e intuitiva, que presente de forma efectiva la propuesta de valor de la aplicación, que es conectar usuarios con profesionales de manera rápida y segura.
+            El objetivo del sprint es construir la landing page de PlayMatch con una interfaz moderna, clara e intuitiva, que presente de forma efectiva la propuesta de valor de la aplicación, que es conectar usuarios con profesionales de manera rápida y segura.
         </td>
     </tr>
     <tr align="left">
