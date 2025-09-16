@@ -610,30 +610,31 @@ Con este sistema, PlayMatch ofrece búsquedas rápidas, comparaciones claras y f
 ### 4.3.1. Landing Page Wireframe
 
 #### Home
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/45e165d59ed404c402db3e7de85698a4da517cad/images/Home.png">
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/45e165d59ed404c402db3e7de85698a4da517cad/images/Home.png"/>
 
 #### About Us
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/45e165d59ed404c402db3e7de85698a4da517cad/images/About%20Us.png">
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/45e165d59ed404c402db3e7de85698a4da517cad/images/About%20Us.png"/>
 
 ### Learn More
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/45e165d59ed404c402db3e7de85698a4da517cad/images/Learn%20More.png">
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/45e165d59ed404c402db3e7de85698a4da517cad/images/Learn%20More.png"/>
 
 ### Suscribe
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/45e165d59ed404c402db3e7de85698a4da517cad/images/Suscribe.png">
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/45e165d59ed404c402db3e7de85698a4da517cad/images/Suscribe.png"/>
 
 ### 4.3.2. Landing Page Mock-up
 
 #### Home
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/460c85c490c51b35fd34ecf2e92728c8d69ee74c/images/Home%20-%20Mockup.png">
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/460c85c490c51b35fd34ecf2e92728c8d69ee74c/images/Home%20-%20Mockup.png"/>
 
 #### About Us
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/460c85c490c51b35fd34ecf2e92728c8d69ee74c/images/About%20Us%20-%20Mockup.png">
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/460c85c490c51b35fd34ecf2e92728c8d69ee74c/images/About%20Us%20-%20Mockup.png"/>
 
 ### Learn More
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/460c85c490c51b35fd34ecf2e92728c8d69ee74c/images/Learn%20More%20-%20Mockup.png">
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/460c85c490c51b35fd34ecf2e92728c8d69ee74c/images/Learn%20More%20-%20Mockup.png"/>
 
 ### Suscribe
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/460c85c490c51b35fd34ecf2e92728c8d69ee74c/images/Suscribe%20-%20Mockup.png">
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/460c85c490c51b35fd34ecf2e92728c8d69ee74c/images/Suscribe%20-%20Mockup.png"/>
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
