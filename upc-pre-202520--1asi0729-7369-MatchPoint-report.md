@@ -410,6 +410,38 @@ Antes de empezar con nuestro startup vamos a realizar un análisis de nuestros c
 |  | Oportunidades | - Alianzas con más canchas deportivas. <br>- Incorporar una opción para que los usuarios puedan crear y hacer públicos campeonatos. | - Aliarse con más canchas aquí en el Perú. <br>- Mejorar la página web. | - Ofrecer descuentos para diversas festividades. | - Añadir más países de dónde se puede contratar un entrenador e incrementar la cantidad de deportes los cuáles estos pueden enseñar. |
 |  | Amenazas | - Hackeos <br>- Competencia por parte de otros aplicativos. | - Problemas técnicos. <br>- Hackeos | - Robos <br>- Poca retención de usuarios. | - Estafas <br>- Problemas técnicos. |
 
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+Posterior al análisis de los competidores, hemos determinado ciertas estrategias que podemos aplicar para destacar.
+
+### Estrategias
+
+**Confianza a base de reseñas**
+
+Para crear una mejor comunidad dentro de la aplicación, cada usuario puede dejar una reseña acerca del entrenador que contrató, dejando en claro cualquier inconveniente que pudo suceder o quejas que estos tuvieran. Esta opción también estará disponible para las canchas en caso de que se encuentren en mal estado o no posean las características que se encuentren en su descripción.
+
+**Pago por suscripción**
+
+Una de nuestras formas de generar ingresos es mediante un pago de suscripción. En caso de que los clientes quieran evitar ver anuncios, además de existir una versión gratis predeterminada para todos que contiene anuncios.
+
+**Multiservicio**
+
+A diferencia de otros negocios, desde nuestra aplicación se pueden alquilar y/o reservar canchas y contratar entrenadores. Ofreciendo múltiples servicios, podemos atraer a una mayor cantidad de clientes, incluyendo ahora también a entrenadores independientes.
+
+**Fácil y simple de usar**
+
+Nuestra aplicación será fácil de utilizar al momento de realizar el alquiler/reserva, además de ofrecer diversos métodos de pago e idiomas en los cuales estará disponible.
+
+### Tácticas
+
+**Mejor servicio digital**
+
+Todo el proceso de reserva y pago se realiza 100% de manera digital, el cual estará documentado en una página web para uso más fácil. Posterior al alquiler de una cancha o entrenador, se le preguntará al cliente si desea dejar una reseña.
+
+**Servicio continuo**
+
+A medida que avance el tiempo, la aplicación irá incrementando en la cantidad de canchas disponibles, entrenadores y servicios que se ofrezcan por cancha. Además de continuar añadiendo más medios de pago, junto a posibles descuentos por eventos deportivos importantes.
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
