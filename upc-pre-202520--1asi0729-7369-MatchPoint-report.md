@@ -389,10 +389,26 @@ https://miro.com/welcomeonboard/MXdjbmptRWZsMStuTWpROTJsb2VDQS9yRlJ5bzV1YUo0S2J4
 - Especialistas que buscan herramientas digitales para gestionar horarios, reservas y pagos de manera eficiente.  
 - Entrenadores que ya trabajan de forma informal pero carecen de una plataforma centralizada y segura para organizar sus servicios.  
 
+# Capitulo II: Requirements Elicitation & Analysis
 
+## 2.1. Competidores
 
+### 2.1.1. Análisis competitivo.
+Antes de empezar con nuestro startup vamos a realizar un análisis de nuestros competidores, para conocer a la competencia en el mercado y cómo distiguirnos de estos.
 
-
+|  |  | Matchpoint | ATC | Serpar | BuscaEntrenador |
+|--|--|------------|-----|--------|-----------------|
+| Perfil | Ventaja Competitiva | Ofrece la capacidad de reservar espacios deportivos en tiempo real, por medio de una aplicación, además de contratar entrenadores independientes. | Permite alquilar canchas, además de organizar partidos donde otros se pueden unir. | Se trata de una plataforma en la cual se pueden alquilar canchas por horas en diversos centros deportivos del gobierno. | Es una plataforma donde se pueden buscar y contratar entrenadores de fútbol y basketball. |
+|  | ¿Qué valor ofrece a los clientes? | - Cobro por tiempo. <br>- Pago rápido, seguro y online. <br>- El contrato de un entrenador se hace con este mismo. | <br>- Posee diversas canchas en múltiples complejos deportivos. <br>- Ofrece una garantía en caso de algún inconveniente. | - Alquiler de canchas por hora. <br>- Pago seguro, que además proporciona una factura. | - Contrato de entrenadores. <br>- Permite a los clubes buscar entrenadores con más experiencia. |
+| Perfil de Marketing | Mercado objetivo | - Deportistas aficionados <br>- Entrenadores independientes | Aficionados del deporte en el continente de América | Deportistas de Lima | Aficionados y clubes de fútbol y baloncesto en Latinoamérica|
+|  | Estrategias de marketing | - Plataforma todo en uno (alquiler, organización de torneos, etc.) <br>- Reseñas de los usuarios de los entrenadores. | - Ofrece servicios en diversos países de América. | - Ofrece un servicio de estacionamiento por 6 soles. <br>- Se provee de medidas de seguridad en los centros deportivos. | - Ofrece el servicio en diversos países de Latinoamérica. |
+| Perfil de producto | Productos y servicios | - Alquiler de canchas deportivas. <br>- Solicitar los servicios de un entrenador independiente. | - Alquiler de canchas deportivas. | - Alquiler de canchas deportivas. | - Contrato de entrenadores independientes |
+|  | Precios y costos | Planes: <br>- Free: gratis <br>- Normal: S/.20 <br>- Premium: S/50 | El precio varía según la cancha y el país. <br> promedio: S/. 180 | Por hora de lunes a viernes: S/. 165 <br> Por hora los sábados, domingos y feriados: S/. 215 | El precio depende varía según entrenador. |
+|  | Canales de distribución | Web y Móvil | Web y Móvil | Web | Web |
+| Análisis SWOT | Fortalezas | - Precios justos <br>- Fácilmente accesible | - Los precios son accesibles. <br>- Hay una gran variedad de canchas. | - Fácil de alquilar. <br>- Las canchas están en buenas condiciones y son seguras. | - Hay una gran cantidad de entrenadores. |
+|  | Debilidades | - Requiere de una conexión estable a internet. <br>- Depende mucho de la cantidad de canchas disponibles. <br>- Posibilidad de vandalismo en las canchas. | -  Reservar puede llegar a ser complicado debido a la estructura de la página. | - Requiere que se ingresen los datos personales de los usuarios. <br>- Hay múltiples condiciones para reservar una cancha. | - Solamente existe la opción para encontrar entrenadores de fútbol y baloncesto. |
+|  | Oportunidades | - Alianzas con más canchas deportivas. <br>- Incorporar una opción para que los usuarios puedan crear y hacer públicos campeonatos. | - Aliarse con más canchas aquí en el Perú. <br>- Mejorar la página web. | - Ofrecer descuentos para diversas festividades. | - Añadir más países de dónde se puede contratar un entrenador e incrementar la cantidad de deportes los cuáles estos pueden enseñar. |
+|  | Amenazas | - Hackeos <br>- Competencia por parte de otros aplicativos. | - Problemas técnicos. <br>- Hackeos | - Robos <br>- Poca retención de usuarios. | - Estafas <br>- Problemas técnicos. |
 
 # Capítulo IV: Product Design
 
