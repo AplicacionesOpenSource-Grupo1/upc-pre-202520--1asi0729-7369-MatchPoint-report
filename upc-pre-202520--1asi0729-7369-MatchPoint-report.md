@@ -442,6 +442,58 @@ Todo el proceso de reserva y pago se realiza 100% de manera digital, el cual est
 
 A medida que avance el tiempo, la aplicación irá incrementando en la cantidad de canchas disponibles, entrenadores y servicios que se ofrezcan por cancha. Además de continuar añadiendo más medios de pago, junto a posibles descuentos por eventos deportivos importantes.
 
+## 2.2. Entrevistas
+
+### 2.2.1 Diseño de entrevistas
+
+Tomando en cuenta nuestro segmento objetivo, aficionados y entrenadores, vamos a crear diversas preguntas divididas en tres grupos: preguntas generales, preguntas para aficionados y preguntas para entrenadores.
+
+**Preguntas generales:**
+
+¿Cuál es tu nombre y apellidos?
+
+¿Cuántos años tienes?
+
+¿Cuál es tu lugar de nacimiento?
+
+¿Haces deporte a menudo?
+
+Si la respuesta anterior es sí, ¿dónde?
+
+¿Tuviste que alquilar alguna vez una cancha? ¿Fue fácil?
+
+**Aficionados:**
+
+¿Cuáles son los principales problemas que se te presentan al reservar?
+
+¿El precio te resulta cómodo?
+
+¿Para entrenar usted ya tiene un entrenador?
+
+¿Las reservas las realizas de manera virtual o presencial?
+
+¿Te gustaría ser capaz de reservar todo desde una aplicación?
+
+¿Qué medidas de seguridad le gustaría que implementaremos?
+
+¿Qué no le gustaría ver en nuestro servicio?
+
+**Entrenador:**
+
+¿Cuáles son los principales problemas que se le presentan al momento de conseguir clientela?
+
+¿Usted ya posee una buena cantidad de clientes “fieles”?
+
+¿Usted intentó ya promocionarse desde el mundo digital?
+
+¿Le gustaría ser capaz de promocionarse desde una aplicación fácil de utilizar?
+
+¿Cuáles serían sus mayores preocupaciones al momento de ingresar en esta aplicación?
+
+¿Qué funciones le gustaría que tenga la aplicación?
+
+### 2.2.2 Registro de entrevistas.
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
