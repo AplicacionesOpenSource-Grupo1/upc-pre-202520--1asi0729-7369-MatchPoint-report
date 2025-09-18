@@ -504,6 +504,16 @@ Si la respuesta anterior es sí, ¿dónde?
 ### Entrenador:
 <img src="images/User-profile-Entrenador.png" alt="Imagen de entrenador independiente">
 
+### 2.3.2. User Task Matrix
+
+| Actividades | Frecuencia (Aficionados) | Importancia (Aficionados) | Frecuencia (Entrenadores) | Importancia (Entrenadores) |
+|-------------|--------------------------|---------------------------|---------------------------|----------------------------|
+| Alquilar canchas de manera sencilla y rápida | Media | Alta | Baja | Baja |
+| Encontrar la cancha más apta y cercana de su ubicación | Alta | Media | Baja | Media |
+| Solicitar los servicios de un entrenador | Media | Alta | Media | Alta |
+| Comunicarse con el entrenador | Media | Alta | Alta | Alta |
+| Poseer una opinión previa a conocer al entrenador | Baja | Alta | Media | Alta |
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
