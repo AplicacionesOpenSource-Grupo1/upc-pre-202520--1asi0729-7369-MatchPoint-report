@@ -736,20 +736,29 @@ Con este sistema, PlayMatch ofrece búsquedas rápidas, comparaciones claras y f
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/460c85c490c51b35fd34ecf2e92728c8d69ee74c/images/Suscribe%20-%20Mockup.png"/>
 
 ## 4.4. Web Applications UX/UI Design
+
 ### 4.4.1. Web Applications Wireframes
+
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireframe-dashboard.png"/>
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireframe-find-coach.png"/>
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireframe-find-courts.png"/>
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireframe-settings.png"/>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireflow.drawio.png"/>
+
 ### 4.4.3. Web Applications Mock-ups
+
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/dashboard-inicio.png"/>
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/detalles-cancha.png"/>
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/listar-canchas.png"/>
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/listar-coaches.png"/>
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/user-flow.png"/>
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
