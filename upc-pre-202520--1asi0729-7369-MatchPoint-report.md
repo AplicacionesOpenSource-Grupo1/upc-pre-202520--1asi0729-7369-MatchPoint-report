@@ -1098,6 +1098,15 @@ Para la puesta en línea de nuestro proyecto, utilizamos Netlify, una plataforma
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
+| Team Member (Last Name, First Name) | Github Username | Diseño, wireframes landing Leader (L), Collaborator (C) | Desarrollo estatico HTML, CSS, JS Leader (L), Collaborator (C) | Desplegar el servicio Leader (L), Collaborator (C) |
+| ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
+| ############################        | ########        | (#)                                                     | (#)                                                            | (#)                                                |
+| ############################        | ########        | (#)                                                     | (#)                                                            | (#)                                                |
+| Andy Alejandro Mio mejia            | AndyMio17       | (C)                                                     | (C)                                                            | (C)                                                |
+| ############################        | ########        | (#)                                                     | (#)                                                            | (#)                                                |
+| ############################        | ########        | (#)                                                     | (#)                                                            | (#)                                                |
+
+
 #### 5.2.1.3. Sprint Backlog 1
 
 #### 5.2.1.4. Development Evidence for Sprint Review
