@@ -1145,17 +1145,17 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 * Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-<img src="./img/sprint1_evidence_1.png" >
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/2f6db40a3fa50c4facd6079e79ca94c7d70b48d1/images/Evidencia1.png" >
 
 * Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
   
-  <img src="./img/sprint1_evidence_2.png" >    
+  <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/63a191ae414534d0c9be7f53a44a2c2253086a70/images/Evidencia2.png" >    
   
 * Imágenes del Landing Page:
    
   * Inicio:
   
-    <img src="./img/sprint1_evidence_2.png" >
+    <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/63a191ae414534d0c9be7f53a44a2c2253086a70/images/Evidencia2.png" >
     
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para Finteka.
 
