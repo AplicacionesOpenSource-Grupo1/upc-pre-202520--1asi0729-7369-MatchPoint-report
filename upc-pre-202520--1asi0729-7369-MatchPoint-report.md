@@ -1120,14 +1120,22 @@ Para la puesta en línea de nuestro proyecto, utilizamos Netlify, una plataforma
 
 | Team Member (Last Name, First Name) | Github Username | Diseño, wireframes landing Leader (L), Collaborator (C) | Desarrollo estatico HTML, CSS, JS Leader (L), Collaborator (C) | Desplegar el servicio Leader (L), Collaborator (C) |
 | ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
-| ############################        | ########        | (#)                                                     | (#)                                                            | (#)                                                |
-| ############################        | ########        | (#)                                                     | (#)                                                            | (#)                                                |
+| Mathias Javier Murillo              | K1ngHulk        | (L)                                                     | (L)                                                            | (L)                                                |
+| Juan Carlos Angulo Abad             | Sve-nnN         | (C)                                                     | (C)                                                            | (C)                                                |
 | Andy Alejandro Mio mejia            | AndyMio17       | (C)                                                     | (C)                                                            | (C)                                                |
-| ############################        | ########        | (#)                                                     | (#)                                                            | (#)                                                |
-| ############################        | ########        | (#)                                                     | (#)                                                            | (#)                                                |
+| Oliver Jonseck Choque               | Olizzy-upc      | (C)                                                     | (C)                                                            | (C)                                                |
+| Gianfranco Durand Vega              | Azucarita1      | (C)                                                     | (C)                                                            | (C)                                                |
 
 
 #### 5.2.1.3. Sprint Backlog 1
+
+El objetivo principal del Sprint 1 fue establecer la base del proyecto PlayMatch, centrando los esfuerzos en el diseño de la interfaz (UI/UX), la construcción inicial de la landing page, la definición de los Sprints en la herramienta de gestión y el desarrollo de documentación base. También se incluyeron tareas generales como configuración de repositorios y organización del equipo.
+
+A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto con el enlace público correspondiente:
+
+https://trello.com/invite/b/68cc7d6227644be042e1568c/ATTI11abea9712e95cbc63e24b5856cbc2f504DD7B34/sprint-1-playmatch
+
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/5abe9f4df3e7ece0f851f44aca190b31d3510c5f/images/Sprint%20Backlog%201.png" alt="Sprint-Backlog-1">
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -1139,5 +1147,50 @@ Durante el primer sprint, se desarrolló el Landing Page del proyecto como una p
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+Durante este Sprint, se realizaron las siguientes actividades en relación con el despliegue de los productos del proyecto, incluyendo la Landing Page y otras aplicaciones web.
+
+##### Introducción
+
+Durante este Sprint, se llevaron a cabo las siguientes actividades clave relacionadas con el despliegue:
+
+1. Creación de Repositorios y Configuración en GitHub:  
+   * Se crearon repositorios en GitHub para gestionar el código fuente y el seguimiento de cambios. Estos repositorios incluyeron la Landing Page y otros componentes del proyecto.  
+   * Se configuraron los repositorios para permitir el despliegue de la Landing Page.
+     
+2. Configuración del Proceso de Despliegue:  
+   * GitHub Pages: Se configuró GitHub Pages para el despliegue de la Landing Page. Este servicio proporciona una manera sencilla de alojar el sitio web directamente desde un repositorio de GitHub.
+
+##### Proceso de Despliegue
+
+A continuación se detallan los pasos realizados durante el Sprint para el despliegue:
+
+1. Despliegue en GitHub Pages:  
+   * Se subió el código de la Landing Page al repositorio en GitHub.  
+   * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.
+
+2. <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/2f6db40a3fa50c4facd6079e79ca94c7d70b48d1/images/Evidencia1.png" >
+
+3. Verificación del Despliegue:  
+   * Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.  
+   * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
+
+4. <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/63a191ae414534d0c9be7f53a44a2c2253086a70/images/Evidencia2.png" >
+
+El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos en el diseño y programación en la implementación de la Landing Page de PlayMatch. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.  
+
+| Author           | Task completed                                |
+|------------------|-----------------------------------------------|
+| Mathias Javier   | create landing page design with HTML, CSS and JS|
+| JuanCarlos Angulo| desing landing page wireframes                  |
+| Andy Mio         | desing landing page mockups                     |
+| Oliver Jonseck   | deploy landing page with Github Pages           |
+| Gianfranco Durand| support to deploy and fix errors with landing page|
+
+Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
+
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/be9ae9e468f7a4473f31d6448c7b4d122ceb0baa/images/Evidencia3.png" >
 
