@@ -776,7 +776,113 @@ Con este sistema, PlayMatch ofrece búsquedas rápidas, comparaciones claras y f
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+<img src="images/Class_Diagrams.png"/>
+
 ### 4.7.2. Class Dictionary
+
+#### 1. Clase: User
+- Atributos:
+  - userId: int → Identificador único del usuario
+  - name: String → Nombre del usuario
+  - email: String → Correo electrónico
+  - password: String → Contraseña
+  - rol: String → Rol asignado (ej. Sportsman, Coach, Admin)
+
+- Métodos:
+  - register() → Registra un nuevo usuario
+  - login() → Autentica al usuario en el sistema
+  - updateProfile() → Actualiza datos personales
+ 
+#### 2. Clase: Pay
+- Atributos:
+  - payId: int → Identificador único del pago
+  - amount: double → Monto pagado
+  - date: Date → Fecha del pago
+  - paymentMethod: String → Método de pago (tarjeta, efectivo, etc.)
+  - state: String → Estado del pago (pendiente, confirmado, fallido)
+
+- Métodos:
+  - processPayment() → Procesa el pago
+  - generateFixture() → Genera comprobante del pago
+  - generateVoucher() → Genera voucher de confirmación
+ 
+#### 3. Clase: Reserve
+- Atributos:
+  - reserveId: int → Identificador único de la reserva
+  - userId: int → Usuario que realiza la reserva
+  - rateId: int → Cancha reservada
+  - coachId: int → Entrenador asignado
+  - dateTime: DateTime → Fecha y hora de la reserva
+  - state: String → Estado de la reserva (pendiente, confirmada, cancelada)
+  - amount: double → Monto de la reserva
+ 
+- Métodos:
+  - confirm() → Confirma la reserva
+  - cancel() → Cancela la reserva
+  - pay() → Asocia la reserva a un pago
+ 
+#### 4. Clase: Rate
+- Atributos:
+  - rateId: int → Identificador único de la cancha
+  - typeSport: String → Tipo de deporte
+  - location: String → Ubicación de la cancha
+  - pricePerHour: double → Precio por hora
+  - availability: boolean → Disponibilidad
+
+- Métodos:
+  - updateAvailability() → Actualiza disponibilidad de la cancha
+  - showDetails() → Muestra información de la cancha
+ 
+#### 5. Clase: Coach
+- Atributos:
+  - specialty: String → Especialidad deportiva
+  - level: String → Nivel de experiencia
+  - rate: double → Tarifa por hora
+  - averageRating: double → Calificación promedio
+ 
+- Métodos:
+  - manageAvailability() → Gestiona disponibilidad del coach
+  - acceptReservation() → Acepta una reserva de entrenamiento
+  - seeStatistics() → Muestra estadísticas de desempeño
+ 
+#### 6. Clase: PlanSubscription
+- Atributos:
+  - planId: int → Identificador del plan
+  - namePlan: String → Nombre del plan
+  - cost: double → Costo del plan
+  - benefits: String → Beneficios incluidos
+  - commission: double → Comisión asociada
+
+- Métodos:
+  - activate() → Activa el plan
+  - updatePlan() → Actualiza beneficios o costo
+  - cancel() → Cancela el plan
+ 
+#### 7. Clase: Sportsman
+- Atributos:
+  - gameLevel: String → Nivel de juego del deportista
+  - sportPreferences: String → Preferencias deportivas
+
+- Métodos:
+  - reserveField() → Reserva una cancha
+  - reserveCoach() → Reserva un entrenador
+  - joinTournament() → Inscripción en torneos
+
+#### 8. Clase: Tournament
+- Atributos:
+  - tournamentId: int → Identificador del torneo
+  - name: String → Nombre del torneo
+  - typeSport: String → Tipo de deporte
+  - dateTime: DateTime → Fecha de inicio
+  - endDate: DateTime → Fecha de finalización
+  - participants: List<User> → Participantes inscritos
+
+- Métodos:
+  - registerPlayer() → Inscribe a un jugador
+  - generateFixture() → Genera el cronograma del torneo
+  - publishResults() → Publica resultados finales
+  
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
