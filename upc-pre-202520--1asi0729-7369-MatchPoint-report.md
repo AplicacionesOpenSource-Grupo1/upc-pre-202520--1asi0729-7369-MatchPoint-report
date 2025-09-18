@@ -524,6 +524,13 @@ Si la respuesta anterior es sí, ¿dónde?
 **Entrenador**
 <img src="images/Empathy-Map Entrenador.png" alt="Imagen de Empathy Map de un entrenador">
 
+## 2.3.5. As-is Scenario Mapping
+
+**Aficionado**
+<img src="images/AS-IS Aficionado.png" alt="Imagen de As-Is Scenario de un aficionado">
+
+**Entrenador**
+<img src="images/AS-IS Entrenador.png" alt="Imagen de As-Is Scenario Map de un Entrenador">
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
