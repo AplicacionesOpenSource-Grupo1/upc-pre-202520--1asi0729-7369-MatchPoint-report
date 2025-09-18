@@ -27,7 +27,7 @@
 | Angulo Abud, Juan Carlos | U202317692 |
 | Andy Alejandro, Mio Mejia| U202218531 |
 | Oliver Jonseck Choque | U202312912 |
-|  |  |
+| Durand Vega, Gianfranco | u202312614 |
 |  |  |
 |  |  |
 <h3 align="center">2025</h3>
