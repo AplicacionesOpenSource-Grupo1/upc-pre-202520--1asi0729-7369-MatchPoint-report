@@ -234,7 +234,7 @@ De esta manera, PlayMatch se convierte en un ecosistema que integra oferta y dem
 | <div style="display: flex; align-items: center;"><img src="img/.png" alt="Integrante1" width="100" height="120">&nbsp;&nbsp;<br>**Mathias Javier Murillo**<br>u202022211</div> | Estudiante de Ingeniería de Software. Apasionado por las nuevas tecnologías y realizar nuevos proyectos | Conocimientos en SQL, HTML, JS, CSS y Python |
 | <div style="display: flex; align-items: center;"><img src="img/.png" alt="Integrante2" width="100" height="120">&nbsp;&nbsp;<br>**Andy Mio Mejia**<br>u202218531</div> | Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación | Java, C++, Python, html, css, javascrip, C# y SQL |
 | <div style="display: flex; align-items: center;"><img src="img/.png" alt="Integrante3" width="100" height="120">&nbsp;&nbsp;<br>**Oliver Jonseck Choque**<br>u202312912</div> | Estudiante de la carrera de Ingeniería de Software. Programador amateur, interesado en la creación de aplicaciones, ciberseguridad y videojuegos| C++, C#, SQL, Html, css, javascript, python y java |
-| <div style="display: flex; align-items: center;"><img src="img/.png" alt="Integrante4" width="100" height="120">&nbsp;&nbsp;<br>**Nombre del integrante**<br>Código universitario</div> |  |  |
+| <div style="display: flex; align-items: center;"><img src="images/JuanCarlosAnguloPortrait.jpg" alt="imagen Juan Carlos Angulo" width="100" height="120">&nbsp;&nbsp;<br>**Juan Carlos Angulo**<br>u202317692</div> | Estudiante de 5to ciclo de la carrera de ingeniería de software. Tengo experiencia creando aplicaciones front end que consuman una API y hagan peticiones. Soy analista SEO Senior | Cpp, JS, SEO, TS |
 | <div style="display: flex; align-items: center;"><img src="img/.png" alt="Integrante5" width="100" height="120">&nbsp;&nbsp;<br>**Nombre del integrante**<br>Código universitario</div> |  |  |
 
 ## 1.2. Solution Profile
@@ -737,9 +737,19 @@ Con este sistema, PlayMatch ofrece búsquedas rápidas, comparaciones claras y f
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireframe-dashboard.png"/>
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireframe-find-coach.png"/>
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireframe-find-courts.png"/>
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireframe-settings.png"/>
 ### 4.4.2. Web Applications Wireflow Diagrams
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireflow.drawio.png"/>
 ### 4.4.3. Web Applications Mock-ups
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/dashboard-inicio.png"/>
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/detalles-cancha.png"/>
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/listar-canchas.png"/>
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/listar-coaches.png"/>
 ### 4.4.4. Web Applications User Flow Diagrams
+<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/user-flow.png"/>
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
