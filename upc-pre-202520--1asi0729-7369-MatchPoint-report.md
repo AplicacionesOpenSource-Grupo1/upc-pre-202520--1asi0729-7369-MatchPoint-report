@@ -514,6 +514,16 @@ Si la respuesta anterior es sí, ¿dónde?
 | Comunicarse con el entrenador | Media | Alta | Alta | Alta |
 | Poseer una opinión previa a conocer al entrenador | Baja | Alta | Media | Alta |
 
+### 2.3.3. User Journey Mapping
+
+### 2.3.4. Empathy Mapping
+
+**Aficionado**
+<img src="images/Empathy-Map Aficionado.png" alt="Imagen de Empathy Map de un aficionado">
+
+**Entrenador**
+<img src="images/Empathy-Map Entrenador.png" alt="Imagen de Empathy Map de un entrenador">
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
