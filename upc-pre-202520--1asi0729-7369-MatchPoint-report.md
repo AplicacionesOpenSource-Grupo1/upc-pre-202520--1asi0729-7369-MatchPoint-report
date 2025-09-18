@@ -494,6 +494,16 @@ Si la respuesta anterior es sí, ¿dónde?
 
 ### 2.2.2 Registro de entrevistas.
 
+## 2.3. Needfinding
+
+### 2.3.1. User Personas
+
+### Aficionado:
+<img src="images/User-Profile-Aficionado.png" alt="Imagen de aficionada al deporte" >
+
+### Entrenador:
+<img src="images/User-profile-Entrenador.png" alt="Imagen de entrenador independiente">
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
