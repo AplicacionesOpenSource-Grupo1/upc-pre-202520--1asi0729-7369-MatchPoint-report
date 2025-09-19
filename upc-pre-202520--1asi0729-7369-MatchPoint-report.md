@@ -535,8 +535,12 @@ Si la respuesta anterior es sí, ¿dónde?
 
 ## 3.1. To-Be Scenario Mapping
 
+
+**Aficcionado**
 <img src="images/To be Scenario Aficionado.png" alt="Imagen de To Be Scenario Map de un Aficionado">
 
+**Entrenador**
+<img src="images/To-be.png" alt="Imagen de To Be Scenario Map de un Entrenador">
 
 ## 3.2 User Stories.
 
@@ -647,12 +651,6 @@ This section provides a collection of user stories that describe the functionali
 | TS14  | Moderación de comentarios                    | Como desarrollador, quiero habilitar moderación de reseñas inadecuadas, para mantener la calidad y seguridad de la comunidad.              | **Scenario: Reseña reportada**<br>Given un usuario reporta una reseña<br>When se recibe el reporte<br>Then el sistema marca la reseña como pendiente de revisión |
 | TS15  | Organización de torneos                      | Como desarrollador, quiero implementar endpoints para crear torneos, inscripciones y fixtures, para que los entrenadores organicen eventos. | **Scenario: Torneo creado**<br>Given un entrenador crea un torneo<br>When completa reglas, fechas y equipos<br>Then el sistema publica el torneo disponible para inscripciones |
 | TS16  | Estadísticas de participación y rendimiento  | Como desarrollador, quiero implementar un módulo de estadísticas para mostrar a jugadores y entrenadores datos de rendimiento.              | **Scenario: Estadísticas visibles**<br>Given un usuario accede al panel de estadísticas<br>When consulta sus datos<br>Then el sistema muestra gráficos de partidos jugados, reservas e interacciones |
-
-
-
-
-
-
 
 
 
