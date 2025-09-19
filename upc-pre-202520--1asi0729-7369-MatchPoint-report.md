@@ -919,6 +919,34 @@ Para mejorar la **capacidad de búsqueda** dentro del sitio web y la aplicación
 Con este sistema, PlayMatch ofrece búsquedas rápidas, comparaciones claras y filtros relevantes que permiten a los usuarios encontrar lo que necesitan sin complicaciones.
 
 ### 4.2.5. Navigation Systems
+
+Está diseñada para guiar a los usuarios (deportistas, entrenadores y administradores) de manera fluida, asegurando que encuentren lo que buscan de forma natural e intuitiva.
+
+**Principios de navegación**
+- **Navegación principal fija** : barra superior presente en todo momento, accesible desde cualquier parte de la aplicación.
+- **Accesos rápidos**: a las secciones principales: Explorar Canchas, Mis Reservas, Entrenadores, Perfil.
+- **Navegación progresiva**: acciones importantes (reservar cancha, agendar sesión con entrenador, unirse a un torneo) se presentan en momentos contextuales apropiados, evitando saturación.
+- **Pistas visuales**: utilización de colores, íconos y estados activos en menús para indicar dónde se encuentra el usuario.
+- **Breadcrumbs**: en procesos secuenciales como la reserva de canchas o la inscripción a torneos, para mostrar al usuario en qué etapa se encuentra.
+
+**Flujo de navegación en la Landing Page**
+1. El visitante accede a la Landing Page.
+2. Puede navegar rápidamente a:
+    - Explorar canchas disponibles
+    - Conocer más sobre MatchPoint
+    - Registrarse como Deportista o Entrenador
+
+3. Se invita a la acción con CTA claros como:
+    - “Reserva tu cancha ahora”
+    - “Encuentra a tu entrenador ideal”
+
+**Flujo de navegación en la Web Application**
+- Menú principal con íconos + texto (Inicio, Canchas, Entrenadores, Mis Reservas, Perfil).
+- En Canchas, se pueden filtrar por ubicación, precio y disponibilidad, y luego reservar.
+- En Entrenadores, se exploran perfiles de coaches, se consultan reseñas y se agenda una sesión.
+- Desde Mis Reservas, se visualizan próximas reservas y se gestionan cambios/cancelaciones.
+- En Perfil, se gestionan datos personales, historial de reservas, medios de pago y configuraciones.
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 
