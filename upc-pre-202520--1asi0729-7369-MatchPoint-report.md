@@ -501,8 +501,8 @@ Si la respuesta anterior es sí, ¿dónde?
 | Segmento Objetivo | Aficionados |
 | 01 | **Nombre:** Alfonso Quispe <br> **Edad:** 48 <br> **Duración:**  5:40 <br> **Link:** https://drive.google.com/file/d/1KXG0jeOXsIQfr8ehZ-1ptjHL_UyvW_hV/view?usp=sharing |
 |    | **Resumen:** Nos cuenta que suele salir a jugar fútbol con compañeros de trabajo y que el mayor problema es realizar la reserva, ya que suele requerir la gran mayoría de veces hablar en persona con el dueño porque no suelen responder al número de teléfono dado o incluso cuando se realiza la reserva, esta es ignorada. Posteriormente muestra mucho interés en la aplicación y sugiere que se implemente una especie de blog donde se puedan subir información acerca de cómo realizar ejercicios |
-| 02 | |
-| | |
+| 02 | **Nombre:** Sofia Choque<br> **Edad:**  27<br> **Duración:**  2:17<br> **Link:** https://drive.google.com/file/d/1Kh9jzrr5hBLig-cV9TNPLddxa9A6YjWs/view?usp=sharing |
+| | **Resumen** Suele alquilar canchas para reuiniones de trabajo o amigos, sin embargo el mayor problema es la mala atención que se le da al momento de comunicarse por whatsapp. Muestra interés por nuestra aplicación y como preocupacion, quiere una mayor seguridad, debido a que no quiere se filtre su información personal |
 | Segmento Objetivo | Entrenadores |
 | 01 | **Nombre:** Adriano Navarro<br> **Edad:**  21<br> **Duración:**  4:37<br> **Link:** https://drive.google.com/file/d/1NrwsUnf8PeDbqF_alP5BZoxmAPTbDBoa/view?usp=sharing |
 | | **Resumen:** La falta de confianza por parte de los padres es el mayor problema que se le presenta al tratar de conseguir más clientela. Intentó promocionarse por instagram, sin embargo esto no resultó satisfactorio y decidió dejarlo. Por ello le resulta interesante una aplicación dónde pueda promocionarse y sugiere que se implemente un apartado dónde este y otros puedan escribir su currículum cómo entrenador y en que se especializa. |
