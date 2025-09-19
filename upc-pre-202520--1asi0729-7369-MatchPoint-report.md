@@ -1137,6 +1137,8 @@ Está diseñada para guiar a los usuarios (deportistas, entrenadores y administr
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
+<img src="images/Database.png" alt="Database Image">
+
 ## 5.1. Software Configuration Management.
 
 ### 5.1.1. Software Development Enviroment Configuration
