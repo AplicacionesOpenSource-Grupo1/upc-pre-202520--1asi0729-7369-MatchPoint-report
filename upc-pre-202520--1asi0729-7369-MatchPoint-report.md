@@ -493,6 +493,19 @@ Si la respuesta anterior es sí, ¿dónde?
 
 ### 2.2.2 Registro de entrevistas.
 
+| Número de registro | Registro |
+|-------------------|-------------|
+| Segmento Objetivo | Aficionados |
+| 01 | **Nombre:** Alfonso Quispe <br> **Edad:** 48 <br> **Duración:**  5:40 <br> **Link:** https://drive.google.com/file/d/1KXG0jeOXsIQfr8ehZ-1ptjHL_UyvW_hV/view?usp=sharing |
+|    | **Resumen:** Nos cuenta que suele salir a jugar fútbol con compañeros de trabajo y que el mayor problema es realizar la reserva, ya que suele requerir la gran mayoría de veces hablar en persona con el dueño porque no suelen responder al número de teléfono dado o incluso cuando se realiza la reserva, esta es ignorada. Posteriormente muestra mucho interés en la aplicación y sugiere que se implemente una especie de blog donde se puedan subir información acerca de cómo realizar ejercicios |
+| 02 | |
+| | |
+| Segmento Objetivo | Entrenadores |
+| 01 | **Nombre:** Adriano Navarro<br> **Edad:**  21<br> **Duración:**  4:37<br> **Link:** https://drive.google.com/file/d/1NrwsUnf8PeDbqF_alP5BZoxmAPTbDBoa/view?usp=sharing |
+| | **Resumen:** La falta de confianza por parte de los padres es el mayor problema que se le presenta al tratar de conseguir más clientela. Intentó promocionarse por instagram, sin embargo esto no resultó satisfactorio y decidió dejarlo. Por ello le resulta interesante una aplicación dónde pueda promocionarse y sugiere que se implemente un apartado dónde este y otros puedan escribir su currículum cómo entrenador y en que se especializa. |
+| 02 | **Nombre:** Stephano Landauri<br> **Edad:**  20<br> **Duración:**  4:32<br> **Link:** https://drive.google.com/file/d/1OfbhOS_P6aJUi7o590sLc7EZhDySlEjR/view?usp=sharing |
+| | **Resumen:** Nos relata que posee problemas al momento de promocionarse debido a que tener visibilidad en este trabajo es difícil, además que coordinarse con padres de alumnos más jóvenes puede resultar ser un gran problema. Intentó promocionarse por parte de redes sociales, pero no puso mucho esfuerzo en ello. Le llamó la atención la propuesta y recomendó la inclusión de una especie de curriculum que pudiese incluir sus logros previos. |
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
