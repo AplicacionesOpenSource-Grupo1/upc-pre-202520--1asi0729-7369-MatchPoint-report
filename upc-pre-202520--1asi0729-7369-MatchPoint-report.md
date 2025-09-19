@@ -531,6 +531,12 @@ Si la respuesta anterior es sí, ¿dónde?
 
 ### 2.3.3. User Journey Mapping
 
+**Aficionado**
+<img src="images/Aficionado-Journey-Map.png" alt="Imagen de Journey Map de un aficionado">
+
+**Entrenador**
+<img src="images/Entrenador-Journey-Map.png" alt="Imagen de Journey Map de un entrenador">
+
 ### 2.3.4. Empathy Mapping
 
 **Aficionado**
