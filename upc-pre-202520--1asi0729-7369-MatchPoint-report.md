@@ -657,6 +657,9 @@ This section provides a collection of user stories that describe the functionali
 ## 3.3 Impact Mapping.
 
 
+<img src="images/Impact map 2 (1).png" alt="Imagen de impact mapping">
+
+
 ## 3.4 Product Backlog.
 
 This section lists the prioritized product backlog items, including features, enhancements, and technical tasks.
