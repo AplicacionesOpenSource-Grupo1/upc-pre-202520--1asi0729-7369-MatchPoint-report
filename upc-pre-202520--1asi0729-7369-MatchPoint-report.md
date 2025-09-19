@@ -509,6 +509,15 @@ Si la respuesta anterior es sí, ¿dónde?
 | 02 | **Nombre:** Stephano Landauri<br> **Edad:**  20<br> **Duración:**  4:32<br> **Link:** https://drive.google.com/file/d/1OfbhOS_P6aJUi7o590sLc7EZhDySlEjR/view?usp=sharing |
 | | **Resumen:** Nos relata que posee problemas al momento de promocionarse debido a que tener visibilidad en este trabajo es difícil, además que coordinarse con padres de alumnos más jóvenes puede resultar ser un gran problema. Intentó promocionarse por parte de redes sociales, pero no puso mucho esfuerzo en ello. Le llamó la atención la propuesta y recomendó la inclusión de una especie de curriculum que pudiese incluir sus logros previos. |
 
+### 2.2.3. Análisis de entrevistas.
+
+Los entrevistados resultaron ser de una gran variedad de empleos y alquilar canchas por diversos motivos cómo trabajo, recreacion y entrenamiento. Un patrón recurrente en los aficionados fue su queja de mal servicio al momento de reservar, aunque esto se trata a diversas razones entre estas están: mala comunicación con el cliente, se ignoran las reservas y reservas exclusivamente presenciales. En el caso de los entrenadores los problemas se resumian con poca visibilidad en redes sociales para promocionarse y desconfianza por parte de clientes debido a pocas recomendaciones.
+ 
+Todos mostraron un interés en nuestra propuesta cómo una fácil alternativa para realizar reservas, existe cierta desconfianza por razones entendibles, cómo un hackeo que podria filtrar los datos personales de los usuarios de nuestra aplicación, por lo que hay que implementar buenas practicas de desarrollo de software para evitar que esto suceda. Además de ello nos ofrecen varias ideas para implementar cómo un blog con recomendaciones de ejercicios, un sección para que entrenadores puedan implementar su curriculum, entre otros.
+ 
+ Finalmente podemos concluir que hay una necesidad que podemos cubrir. Sin embargo tenemos que estar preparados por inconvenientes en el camino o el hecho que no tendremos
+ muchos clientes al comienzo.
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
