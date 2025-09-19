@@ -661,7 +661,27 @@ This section provides a collection of user stories that describe the functionali
 
 ## 3.4 Product Backlog.
 
+This section lists the prioritized product backlog items, including features, enhancements, and technical tasks.
 
+
+| #Orden | User Story ID | Título                          | Descripción (resumen)                                                                                   | Story Points |
+|--------|---------------|---------------------------------|---------------------------------------------------------------------------------------------------------|--------------|
+| 1      | US01          | Registrar cuenta de jugador     | Alta de usuario jugador (nombre, email único, contraseña ≥ 6, validación)                               | 5            |
+| 2      | US02          | Iniciar sesión como jugador     | Autenticación (JWT) y acceso al dashboard con perfil personal                                           | 3            |
+| 3      | US03          | Buscar canchas por ubicación    | Filtro de canchas por ciudad/distrito con cards de resultado                                            | 5            |
+| 4      | US04          | Filtrar canchas por deporte     | Selección de tipo de deporte (fútbol, tenis, vóley, etc.) en filtros de búsqueda                        | 3            |
+| 5      | US05          | Reservar cancha en línea        | Selección de cancha y horario → Confirmación de reserva                                                 | 8            |
+| 6      | US06          | Pagar reserva con tarjeta       | Integración con pasarela de pago segura (Stripe u otra)                                                 | 5            |
+| 7      | US07          | Valorar cancha reservada        | Publicación de reseñas y calificación con estrellas                                                     | 3            |
+| 8      | US08          | Crear partido con amigos        | Formulario de creación de partido con fecha, hora, cancha e invitaciones                                | 5            |
+| 9      | US09          | Registrar cuenta de entrenador  | Alta de usuario entrenador (datos personales, especialidad, tarifas)                                    | 5            |
+| 10     | US10          | Actualizar perfil profesional   | CRUD de perfil de entrenador (fotos, descripción, tarifas)                                              | 3            |
+| 11     | US11          | Publicar disponibilidad de horarios | Panel de agenda para definir horarios disponibles                                                      | 5            |
+| 12     | US12          | Aceptar o rechazar reservas     | Gestión de solicitudes de reserva con botones Aceptar/Rechazar                                          | 5            |
+| 13     | US13          | Gestionar pagos recibidos       | Panel de control con listado de ingresos confirmados y pendientes                                       | 5            |
+| 14     | US14          | Ver estadísticas de rendimiento | Módulo de estadísticas (sesiones dictadas, valoraciones, jugadores atendidos)                           | 3            |
+| 15     | US15          | Recibir reseñas de jugadores    | Listado de reseñas con calificación y comentarios visibles en el perfil del entrenador                   | 3            |
+| 16     | US16          | Organizar torneos comunitarios  | Creación de torneos: reglas, equipos, fechas, inscripciones y fixtures                                  | 8            |
 
 
 # Capítulo IV: Product Design
