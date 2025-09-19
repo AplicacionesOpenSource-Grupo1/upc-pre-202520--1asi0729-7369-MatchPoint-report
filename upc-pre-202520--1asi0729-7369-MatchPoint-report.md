@@ -537,7 +537,7 @@ Si la respuesta anterior es sí, ¿dónde?
 
 ### 3.1. To-Be Scenario Mapping
 
-<img src="images/To Be Scenario Aficionado" alt="Imagen de To Be Scenario Map de un Aficionado">
+<img src="To be Scenario Aficionado.png" alt="Imagen de To Be Scenario Map de un Aficionado">
 
 
 # Capítulo IV: Product Design
