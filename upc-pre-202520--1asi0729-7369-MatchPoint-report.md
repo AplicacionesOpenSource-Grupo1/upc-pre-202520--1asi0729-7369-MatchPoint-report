@@ -538,6 +538,132 @@ Si la respuesta anterior es sí, ¿dónde?
 <img src="To be Scenario Aficionado.png" alt="Imagen de To Be Scenario Map de un Aficionado">
 
 
+## 3.2 User Stories.
+
+This section provides a collection of user stories that describe the functionalities and features from the end-user perspective.
+
+## Épicas - Gestión de Cuentas y Autenticación
+## E01 - Gestión de Cuentas y Autenticación
+**Descripción:** Como usuario (jugador o entrenador), necesito un sistema completo de autenticación que me permita registrarme, iniciar sesión, mantener mi perfil actualizado y cerrar sesión de forma segura, para acceder de manera controlada a todas las funcionalidades de la plataforma.
+
+**Objetivo:** Proporcionar un sistema seguro y confiable de gestión de cuentas de usuario para la comunidad deportiva.
+
+**Criterios de Aceptación:**
+- Registro con validación de datos únicos
+- Actualización de perfil personal.
+- Cierre de sesión seguro con invalidación de tokens
+
+---
+## E02 - Búsqueda y Reserva de Canchas
+**Descripción:** Como jugador aficionado, necesito un sistema que me permita buscar canchas deportivas disponibles según ubicación, horario, precio y deporte, para reservar en tiempo real de manera fácil y rápida.
+
+**Objetivo:** Garantizar que los usuarios encuentren y reserven canchas deportivas de forma eficiente y confiable.
+
+**Criterios de Aceptación:**
+- Filtros de búsqueda por ubicación, deporte, precio y disponibilidad.
+- Reserva confirmada en tiempo real.
+- Notificación de confirmación o rechazo de reserva.
+
+---
+
+## E03 - Gestión de Entrenadores y Servicios
+**Descripción:** Como entrenador independiente, necesito un sistema que me permita publicar mis servicios, gestionar mi agenda, definir tarifas y horarios disponibles, para ampliar mi alcance y captar más clientes.
+
+**Objetivo:** Brindar herramientas digitales que fortalezcan la visibilidad y productividad de los entrenadores.
+
+**Criterios de Aceptación:**
+- Creación y edición de perfil profesional.
+- Configuración de agenda con disponibilidad de horarios.
+- Gestión de tarifas y servicios ofrecidos.
+
+---
+
+## E04 - Gestión de Vehículos
+**Descripción:** Como usuario (jugador o entrenador), necesito un sistema de pagos en línea confiable y transparente, que me permita pagar o recibir dinero de manera rápida y segura dentro de la plataforma.
+
+**Objetivo:** Implementar una pasarela de pago segura que garantice confianza y trazabilidad en todas las transacciones.
+
+**Criterios de Aceptación:**
+- integración con pasarelas de pago seguras.
+- Generación de comprobantes digitales.
+- Validación de transacciones exitosas o fallidas.
+
+---
+
+## E05 - Valoraciones y Reseñas
+**Descripción:** Como usuario, necesito un sistema que me permita dejar reseñas y calificaciones sobre entrenadores y canchas, para ayudar a otros a elegir servicios confiables y mejorar la calidad de la comunidad.
+**Objetivo:** Fomentar la confianza y transparencia en la plataforma mediante retroalimentación de los usuarios.
+
+**Criterios de Aceptación:**
+- Calificación con sistema de estrellas o puntos.
+- Comentarios públicos en perfiles de entrenadores y canchas.
+- Reporte de reseñas inadecuadas o fraudulentas.
+
+---
+
+## E06 - Organización de Partidos y Torneos
+**Descripción:** Como jugador aficionado, necesito un sistema que me permita organizar partidos con amigos o unirme a torneos disponibles, para vivir experiencias deportivas más completas y dinámicas.
+
+**Objetivo:** Facilitar la organización comunitaria de partidos y torneos para fortalecer la interacción entre usuarios.
+
+**Criterios de Aceptación:**
+- Creación de partidos privados o públicos.
+- Inscripción de jugadores en torneos.
+- Generación de calendario y estadísticas básicas de participación.
+
+## User Stories
+
+| Epic/User Story ID | Título                          | Descripción                                                                                               | Criterios de Aceptación                                                                                                                                                                                                                           | Relacionado con (Epic ID) |
+|--------------------|---------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| US01               | Registrar cuenta de jugador     | Como jugador, quiero registrarme en la plataforma, para poder acceder a las funcionalidades de búsqueda y reserva de canchas. | **Scenario: Registro exitoso de jugador**<br>Given el jugador está en el formulario “Registro”<br>When completa nombre, email, contraseña (≥6 caracteres) y acepta términos<br>Then el sistema guarda los datos y envía confirmación por correo electrónico | E01 |
+| US02               | Iniciar sesión como jugador     | Como jugador, quiero iniciar sesión en la plataforma, para acceder rápidamente a mi perfil y reservas.    | **Scenario: Inicio de sesión válido**<br>Given el jugador ingresa email y contraseña correctos<br>When pulsa “Iniciar Sesión”<br>Then el sistema muestra la pantalla principal con su perfil cargado                                                 | E01 |
+| US03               | Buscar canchas por ubicación    | Como jugador, quiero buscar canchas deportivas por ubicación, para encontrar la más cercana a mí.         | **Scenario: Búsqueda por ubicación**<br>Given el jugador selecciona su ciudad en el filtro<br>When el sistema consulta la base de datos<br>Then se muestran cards con nombre, dirección, disponibilidad y botón “Reservar”                          | E02 |
+| US04               | Filtrar canchas por deporte     | Como jugador, quiero filtrar las canchas por tipo de deporte, para reservar la adecuada a mi necesidad.   | **Scenario: Mostrar canchas filtradas por deporte**<br>Given el jugador selecciona “fútbol” en el filtro<br>When el sistema consulta la base de datos<br>Then se muestran solo las canchas de fútbol disponibles                                      | E02 |
+| US05               | Reservar cancha en línea        | Como jugador, quiero reservar una cancha en línea, para asegurar mi espacio de juego en el horario deseado. | **Scenario: Reserva exitosa**<br>Given el jugador elige una cancha y horario disponibles<br>When confirma la reserva y realiza el pago<br>Then el sistema envía confirmación con código de reserva                                                   | E02 |
+| US06               | Pagar reserva con tarjeta       | Como jugador, quiero pagar mi reserva en línea con tarjeta, para completar la transacción de manera rápida y segura. | **Scenario: Pago exitoso con tarjeta**<br>Given el jugador selecciona “Pagar con tarjeta”<br>When ingresa datos válidos de tarjeta<br>Then el sistema procesa el pago y confirma la reserva                                                         | E04 |
+| US07               | Valorar cancha reservada        | Como jugador, quiero dejar una valoración de la cancha después de usarla, para ayudar a otros usuarios a elegir mejor. | **Scenario: Publicar reseña**<br>Given el jugador ya completó una reserva<br>When accede a la sección de valoraciones<br>Then puede dar calificación con estrellas y comentario                                                                    | E05 |
+| US08               | Crear partido con amigos        | Como jugador, quiero crear un partido en la plataforma, para invitar a mis amigos a unirse y jugar juntos. | **Scenario: Partido creado exitosamente**<br>Given el jugador selecciona “Crear Partido”<br>When define fecha, hora, cancha y participantes<br>Then el sistema genera un evento compartible e invita a los seleccionados                             | E06 |
+| US09               | Registrar cuenta de entrenador  | Como entrenador, quiero registrarme en la plataforma, para ofrecer mis servicios a los jugadores.        | **Scenario: Registro exitoso de entrenador**<br>Given el entrenador completa el formulario de registro<br>When ingresa sus datos profesionales (nombre, especialidad, tarifa)<br>Then el sistema crea un perfil profesional visible para los jugadores | E01 |
+| US10               | Actualizar perfil profesional   | Como entrenador, quiero actualizar mi perfil con fotos, descripción y tarifas, para atraer más clientes. | **Scenario: Perfil actualizado**<br>Given el entrenador accede a su perfil<br>When edita información y guarda cambios<br>Then el sistema actualiza los datos visibles a los jugadores                                                               | E03 |
+| US11               | Publicar disponibilidad de horarios | Como entrenador, quiero publicar mi disponibilidad de horarios, para que los jugadores puedan reservar sesiones conmigo. | **Scenario: Disponibilidad publicada**<br>Given el entrenador selecciona “Editar agenda”<br>When marca horarios disponibles<br>Then los jugadores pueden ver y reservar en esos espacios                                                            | E03 |
+| US12               | Aceptar o rechazar reservas     | Como entrenador, quiero aceptar o rechazar solicitudes de reserva, para gestionar mejor mi tiempo y agenda. | **Scenario: Aceptación de reserva**<br>Given el entrenador recibe una solicitud<br>When pulsa “Aceptar”<br>Then el sistema confirma la reserva y actualiza su agenda                                                                                | E03 |
+| US13               | Gestionar pagos recibidos       | Como entrenador, quiero visualizar y gestionar mis pagos recibidos, para tener control sobre mis ingresos. | **Scenario: Pago confirmado**<br>Given un jugador paga por la reserva<br>When la transacción es exitosa<br>Then el sistema refleja el ingreso en la cuenta del entrenador                                                                          | E04 |
+| US14               | Ver estadísticas de rendimiento | Como entrenador, quiero ver estadísticas de mis entrenamientos, para mejorar mis servicios y demostrar resultados a los jugadores. | **Scenario: Estadísticas visibles**<br>Given el entrenador accede a su panel de control<br>When selecciona “Estadísticas”<br>Then el sistema muestra número de sesiones realizadas, jugadores atendidos y valoraciones                              | E03 |
+| US15               | Recibir reseñas de jugadores    | Como entrenador, quiero recibir reseñas de mis alumnos, para aumentar mi reputación en la plataforma.   | **Scenario: Reseña publicada**<br>Given un jugador completó una sesión<br>When publica una reseña<br>Then la reseña aparece en el perfil del entrenador con calificación y comentario                                                               | E05 |
+| US16               | Organizar torneos comunitarios  | Como entrenador, quiero crear y organizar torneos desde la plataforma, para atraer más jugadores y ampliar mi red de clientes. | **Scenario: Torneo creado exitosamente**<br>Given el entrenador selecciona “Crear Torneo”<br>When define reglas, fechas, equipos y premios<br>Then el sistema publica el torneo y habilita inscripciones en línea                                   | E06 |
+| TS01  | Implementar autenticación basada en JWT      | Como desarrollador, quiero implementar autenticación con JWT para proteger las sesiones de los usuarios y garantizar acceso seguro.        | **Scenario: Generación de JWT al inicio de sesión**<br>Given credenciales válidas<br>When el usuario inicia sesión<br>Then el sistema genera un JWT válido<br>And lo devuelve al cliente |
+| TS02  | Validación de JWT en endpoints protegidos    | Como desarrollador, quiero validar JWT en cada request a endpoints privados, para asegurar que solo usuarios autorizados accedan.          | **Scenario: Validación de JWT**<br>Given un usuario con JWT válido<br>When realiza una petición<br>Then el sistema valida el token<br>And concede acceso al recurso |
+| TS03  | Manejo de expiración de tokens JWT           | Como desarrollador, quiero manejar la expiración de JWT para que el sistema obligue a renovar sesión o usar refresh tokens.                | **Scenario: JWT expirado**<br>Given un usuario con JWT caducado<br>When intenta acceder a un recurso<br>Then el sistema devuelve 401 Unauthorized<br>And solicita nueva autenticación |
+| TS04  | Almacenamiento seguro de tokens              | Como desarrollador, quiero almacenar los JWT siguiendo buenas prácticas (HttpOnly cookies / sessionStorage), para evitar ataques XSS.       | **Scenario: Almacenamiento seguro**<br>Given el servidor genera un JWT válido<br>When lo envía al cliente<br>Then debe almacenarse con configuraciones seguras |
+| TS05  | Implementar API de búsqueda de canchas       | Como desarrollador, quiero implementar un endpoint para filtrar canchas por ubicación, deporte y precio, para optimizar las búsquedas.     | **Scenario: Filtro de canchas**<br>Given un usuario selecciona filtros<br>When consulta la API<br>Then se devuelven solo las canchas que cumplen los criterios |
+| TS06  | Sistema de reservas en tiempo real           | Como desarrollador, quiero implementar lógica de reservas concurrentes para evitar que dos usuarios reserven la misma cancha simultáneamente. | **Scenario: Reserva en conflicto**<br>Given dos usuarios seleccionan la misma cancha<br>When ambos intentan reservar<br>Then el sistema permite solo la primera confirmación |
+| TS07  | Integración con pasarela de pagos            | Como desarrollador, quiero integrar una pasarela de pagos segura (ej: Stripe), para procesar pagos en línea de reservas y servicios.       | **Scenario: Pago exitoso**<br>Given un usuario realiza un pago<br>When el pago es aprobado<br>Then el sistema confirma la reserva y genera comprobante |
+| TS08  | Generación de comprobantes digitales         | Como desarrollador, quiero generar comprobantes PDF tras un pago exitoso, para que el usuario pueda descargarlo o recibirlo por email.     | **Scenario: Comprobante generado**<br>Given un pago exitoso<br>When se completa la transacción<br>Then el sistema genera un comprobante digital en PDF |
+| TS09  | API de gestión de entrenadores               | Como desarrollador, quiero implementar endpoints CRUD para que los entrenadores gestionen sus perfiles, horarios y tarifas.                | **Scenario: Actualización de perfil**<br>Given un entrenador edita su perfil<br>When envía cambios a la API<br>Then el sistema guarda y actualiza la información |
+| TS10  | Panel de administración de agenda            | Como desarrollador, quiero construir un módulo de agenda para que los entrenadores definan horarios disponibles para reservas.              | **Scenario: Agenda publicada**<br>Given un entrenador selecciona horarios<br>When guarda la agenda<br>Then el sistema actualiza disponibilidad visible a los jugadores |
+| TS11  | Notificaciones de reserva a entrenadores     | Como desarrollador, quiero implementar notificaciones push/email para que los entrenadores reciban solicitudes de reserva en tiempo real.  | **Scenario: Reserva recibida**<br>Given un jugador reserva<br>When el sistema confirma<br>Then envía notificación al entrenador asociado |
+| TS12  | Gestión de pagos para entrenadores           | Como desarrollador, quiero implementar un módulo para que los entrenadores vean ingresos y retiros disponibles.                           | **Scenario: Visualizar ingresos**<br>Given un entrenador con reservas pagadas<br>When accede a “Mis ingresos”<br>Then el sistema muestra pagos confirmados y pendientes |
+| TS13  | Sistema de valoraciones y reseñas            | Como desarrollador, quiero implementar un sistema de reviews con calificación y comentarios, para fomentar confianza en la comunidad.      | **Scenario: Reseña publicada**<br>Given un jugador completó una reserva<br>When envía una reseña<br>Then el sistema la guarda y la asocia al perfil correspondiente |
+| TS14  | Moderación de comentarios                    | Como desarrollador, quiero habilitar moderación de reseñas inadecuadas, para mantener la calidad y seguridad de la comunidad.              | **Scenario: Reseña reportada**<br>Given un usuario reporta una reseña<br>When se recibe el reporte<br>Then el sistema marca la reseña como pendiente de revisión |
+| TS15  | Organización de torneos                      | Como desarrollador, quiero implementar endpoints para crear torneos, inscripciones y fixtures, para que los entrenadores organicen eventos. | **Scenario: Torneo creado**<br>Given un entrenador crea un torneo<br>When completa reglas, fechas y equipos<br>Then el sistema publica el torneo disponible para inscripciones |
+| TS16  | Estadísticas de participación y rendimiento  | Como desarrollador, quiero implementar un módulo de estadísticas para mostrar a jugadores y entrenadores datos de rendimiento.              | **Scenario: Estadísticas visibles**<br>Given un usuario accede al panel de estadísticas<br>When consulta sus datos<br>Then el sistema muestra gráficos de partidos jugados, reservas e interacciones |
+
+
+
+
+
+
+
+
+
+## 3.3 Impact Mapping.
+
+
+## 3.4 Product Backlog.
+
+
+
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
