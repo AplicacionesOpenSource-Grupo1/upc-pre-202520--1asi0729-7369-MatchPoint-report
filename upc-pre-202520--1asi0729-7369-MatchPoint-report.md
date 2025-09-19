@@ -531,10 +531,9 @@ Si la respuesta anterior es sí, ¿dónde?
 **Entrenador**
 <img src="images/AS-IS Entrenador.png" alt="Imagen de As-Is Scenario Map de un Entrenador">
 
-### Capítulo III: Requirements Specification
+# Capítulo III: Requirements Specification
 
-
-### 3.1. To-Be Scenario Mapping
+## 3.1. To-Be Scenario Mapping
 
 <img src="To be Scenario Aficionado.png" alt="Imagen de To Be Scenario Map de un Aficionado">
 
