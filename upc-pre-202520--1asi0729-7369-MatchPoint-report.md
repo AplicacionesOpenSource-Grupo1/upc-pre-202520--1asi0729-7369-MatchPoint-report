@@ -28,8 +28,7 @@
 | Andy Alejandro, Mio Mejia| U202218531 |
 | Oliver Jonseck Choque | U202312912 |
 | Durand Vega, Gianfranco | u202312614 |
-|  |  |
-|  |  |
+
 <h3 align="center">2025</h3>
 
 <div style="page-break-after: always;"></div>
@@ -232,7 +231,7 @@ De esta manera, PlayMatch se convierte en un ecosistema que integra oferta y dem
 | Integrantes | Descripción | Conocimientos |
 | :---------- | :---------- | :------------ |
 | <div style="display: flex; align-items: center;"><img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/3e152bc721b8f4af5ed4a09ce9a896e9f78f8340/images/MathiasJM.jpg" alt="Integrante1" width="100" height="120">&nbsp;&nbsp;<br>**Mathias Javier Murillo**<br>u202022211</div> | Estudiante de Ingeniería de Software. Apasionado por las nuevas tecnologías y realizar nuevos proyectos | Conocimientos en SQL, HTML, JS, CSS y Python |
-| <div style="display: flex; align-items: center;"><img src="img/.png" alt="Integrante2" width="100" height="120">&nbsp;&nbsp;<br>**Andy Mio Mejia**<br>u202218531</div> | Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación | Java, C++, Python, html, css, javascrip, C# y SQL |
+| <div style="display: flex; align-items: center;"><img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/b743947b076b4f3ec8fb6deae40cbbb87550cc52/images/Andy.jpg" alt="Integrante2" width="100" height="120">&nbsp;&nbsp;<br>**Andy Mio Mejia**<br>u202218531</div> | Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación | Java, C++, Python, html, css, javascrip, C# y SQL |
 | <div style="display: flex; align-items: center;"><img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/3e152bc721b8f4af5ed4a09ce9a896e9f78f8340/images/Oliver.jpg" alt="Integrante3" width="100" height="120">&nbsp;&nbsp;<br>**Oliver Jonseck Choque**<br>u202312912</div> | Estudiante de la carrera de Ingeniería de Software. Programador amateur, interesado en la creación de aplicaciones, ciberseguridad y videojuegos| C++, C#, SQL, Html, css, javascript, python y java |
 | <div style="display: flex; align-items: center;"><img src="images/JuanCarlosAnguloPortrait.jpg" alt="imagen Juan Carlos Angulo" width="100" height="120">&nbsp;&nbsp;<br>**Juan Carlos Angulo**<br>u202317692</div> | Estudiante de 5to ciclo de la carrera de ingeniería de software. Tengo experiencia creando aplicaciones front end que consuman una API y hagan peticiones. Soy analista SEO Senior | Cpp, JS, SEO, TS |
 | <div style="display: flex; align-items: center;"><img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/3e152bc721b8f4af5ed4a09ce9a896e9f78f8340/images/Gianfranco.jpg" alt="Integrante5" width="100" height="120">&nbsp;&nbsp;<br>**Gianfranco Durand Vega**<br>u202312614</div> | Estudiante de Ingeniería de Software cursando el 6 ciclo de la carrera de ingeniería de software.  | Tengo experiencia con Javascript, Java, C++. |
