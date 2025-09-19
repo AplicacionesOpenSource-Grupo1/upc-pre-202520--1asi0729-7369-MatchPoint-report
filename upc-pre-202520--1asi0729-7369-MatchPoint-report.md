@@ -806,8 +806,19 @@ Con este sistema, PlayMatch ofrece búsquedas rápidas, comparaciones claras y f
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+
+<img src="images/System Landscape.jpeg">
+
 ### 4.6.2. Software Architecture Container Diagrams
+
+<img src="images/Container Frontend.jpeg">
+
+<img src="images/Container Backend.jpeg">
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+<img src="images/Components Backend.jpeg">
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
