@@ -1413,3 +1413,37 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/be9ae9e468f7a4473f31d6448c7b4d122ceb0baa/images/Evidencia3.png" >
 
+# Conclusiones
+
+El Sprint 1 permitió establecer las bases del proyecto mediante el diseño, desarrollo y despliegue de la landing page. Durante este proceso, el equipo consolidó los pilares del producto, alineando los objetivos visuales y funcionales con la propuesta de valor. Asimismo, se logró implementar una estructura clara y adaptable, aplicando buenas prácticas de HTML, CSS y JavaScript para garantizar una experiencia de usuario eficiente.
+
+El despliegue exitoso de la landing page representa un primer paso fundamental para la validación del producto y la captación de usuarios iniciales. Además, este avance evidenció una comunicación efectiva y un trabajo colaborativo dentro del equipo, lo que sienta un precedente positivo para los siguientes sprints. En general, el Sprint 1 cumplió sus metas, aportando un entregable tangible y de calidad que sirve como base para futuras mejoras y nuevas funcionalidades.
+
+
+# Bibliografía
+
+- Crockford, D. (2008). *JavaScript: The good parts*. O’Reilly Media. [https://www.oreilly.com/library/view/javascript-the-good/9780596517748/](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
+
+- Duckett, J. (2011). *HTML and CSS: Design and build websites*. Wiley. [https://www.wiley.com/en-us/HTML+and+CSS%3A+Design+and+Build+Websites-p-9781118008188](https://www.wiley.com/en-us/HTML+and+CSS%3A+Design+and+Build+Websites-p-9781118008188)
+
+- Flanagan, D. (2020). *JavaScript: The definitive guide* (7th ed.). O’Reilly Media. [https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
+
+- Freeman, E., & Robson, E. (2014). *Head first JavaScript programming*. O’Reilly Media. [https://www.oreilly.com/library/view/head-first-javascript/9781449343989/](https://www.oreilly.com/library/view/head-first-javascript/9781449343989/)
+
+- Keith, J. (2010). *HTML5 for web designers*. A Book Apart. [https://abookapart.com/products/html5-for-web-designers](https://abookapart.com/products/html5-for-web-designers)
+
+- Meyer, E. A. (2006). *CSS: The definitive guide* (3rd ed.). O’Reilly Media. [https://www.oreilly.com/library/view/css-the-definitive/0596527330/](https://www.oreilly.com/library/view/css-the-definitive/0596527330/)
+
+- Mozilla Developer Network. (2025). *MDN Web Docs: HTML, CSS, and JavaScript*. Mozilla Foundation. [https://developer.mozilla.org/](https://developer.mozilla.org/)
+
+- Pilgrim, M. (2010). *HTML5: Up and running*. O’Reilly Media. [https://www.oreilly.com/library/view/html5-up-and/9781449393908/](https://www.oreilly.com/library/view/html5-up-and/9781449393908/)
+
+- Resig, J., & Bibeault, B. (2013). *Secrets of the JavaScript Ninja* (2nd ed.). Manning Publications. [https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)
+
+- Robbins, J. N. (2018). *Learning web design: A beginner’s guide to HTML, CSS, JavaScript, and web graphics* (5th ed.). O’Reilly Media. [https://www.oreilly.com/library/view/learning-web-design/9781491960196/](https://www.oreilly.com/library/view/learning-web-design/9781491960196/)
+
+#Anexos
+
+Link del repositorio del Informe: https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report
+Link del repositorio de la Landing Page: https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-Landing-Page
+Link de la Landing Page desplegada por GitHub Pages: https://aplicacionesopensource-grupo1.github.io/upc-pre-202520--1asi0729-7369-MatchPoint-Landing-Page/
