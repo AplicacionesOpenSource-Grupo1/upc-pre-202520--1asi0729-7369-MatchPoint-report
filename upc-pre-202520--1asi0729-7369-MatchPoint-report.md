@@ -198,10 +198,13 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-|---------------------|---------------------|--------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** |  |  |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** |  |  |
+# Outcomes TB1 – Pilares del Producto y Landing Page  
+
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|-------------------------|--------------------------|------------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | **Mathias Javier Murillo (U202022211)**<br>**TB1**: Participé activamente en reuniones grupales mediante llamadas y coordinación por mensajería, lo que permitió exponer los pilares del producto de manera clara y coordinar los avances de la landing page.<br><br>**Juan Carlos Angulo Abud (U202317692)**<br>**TB1**: Aporté en la organización de ideas y la explicación de los mensajes principales, lo que ayudó al equipo a mantener un discurso claro sobre los objetivos del producto y su representación en la landing page.<br><br>**Mio Mejia Andy Alejandro (U202218531)**<br>**TB1**: Colaboré en la comunicación de los contenidos de la landing page, explicando la forma en que los pilares del producto se mostrarían para distintos públicos, lo que ayudó a alinear el enfoque del equipo.<br><br>**Oliver Jonseck Choque (U202312912)**<br>**TB1**: Expuse ideas relacionadas a la organización visual y conceptual, facilitando que la comunicación oral del equipo se tradujera en una landing page coherente y entendible.<br><br>**Gianfranco Durand Vega (U202312614)**<br>**TB1**: Participé en la comunicación y discusión grupal para asegurar que los pilares del producto estuvieran alineados con la propuesta, contribuyendo a un discurso claro y consensuado. | **Mathias Javier Murillo**<br>**TB1**: La comunicación oral constante permitió coordinar tareas de forma eficiente y transmitir con claridad los pilares del producto.<br><br>**Juan Carlos Angulo Abud**<br>**TB1**: La exposición clara de ideas contribuyó a que el equipo lograra alinear mensajes y objetivos en la landing page.<br><br>**Mio Mejia Andy Alejandro**<br>**TB1**: La comunicación clara facilitó la comprensión de los contenidos y mejoró la coherencia de la propuesta en la landing page.<br><br>**Oliver Jonseck Choque**<br>**TB1**: La intervención oral favoreció el orden en la estructura del proyecto y reforzó la efectividad del mensaje hacia la audiencia.<br><br>**Gianfranco Durand Vega**<br>**TB1**: La comunicación oral ayudó a mantener la coherencia entre los pilares del producto y el mensaje general del proyecto. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Mathias Javier Murillo (U202022211)**<br>**TB1**: Contribuí en la redacción de la propuesta de valor y en la descripción de los pilares del producto, asegurando un lenguaje claro y entendible en la landing page.<br><br>**Juan Carlos Angulo Abud (U202317692)**<br>**TB1**: Aporté en la redacción de los mensajes principales del proyecto, mejorando la claridad escrita de la propuesta en el documento y la landing page.<br><br>**Mio Mejia Andy Alejandro (U202218531)**<br>**TB1**: Participé en la redacción y ajuste de los contenidos escritos para que fueran comprensibles para diferentes públicos, adaptando el mensaje de los pilares del producto.<br><br>**Oliver Jonseck Choque (U202312912)**<br>**TB1**: Apoyé en la organización escrita de las ideas del equipo, contribuyendo a que la landing page reflejara los pilares de forma clara y ordenada.<br><br>**Gianfranco Durand Vega (U202312614)**<br>**TB1**: Colaboré en la redacción de los contenidos de la propuesta, asegurando coherencia y alineación en los textos del proyecto. | **Mathias Javier Murillo**<br>**TB1**: La comunicación escrita permitió expresar los pilares del producto de forma clara y accesible para la audiencia.<br><br>**Juan Carlos Angulo Abud**<br>**TB1**: La claridad en los textos fortaleció la efectividad del mensaje del proyecto y su comprensión en la landing page.<br><br>**Mio Mejia Andy Alejandro**<br>**TB1**: La participación en la redacción aseguró que los pilares del producto fueran transmitidos de manera simple y atractiva.<br><br>**Oliver Jonseck Choque**<br>**TB1**: La organización de las ideas escritas facilitó que la landing page comunicara con claridad los objetivos del proyecto.<br><br>**Gianfranco Durand Vega**<br>**TB1**: La coherencia en los contenidos escritos permitió mantener un mensaje uniforme y alineado con la propuesta del producto. |
+
 
 <div style="page-break-after: always;"></div>
 
@@ -1323,6 +1326,17 @@ https://trello.com/invite/b/68cc7d6227644be042e1568c/ATTI11abea9712e95cbc63e24b5
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/5abe9f4df3e7ece0f851f44aca190b31d3510c5f/images/Sprint%20Backlog%201.png" alt="Sprint-Backlog-1">
 
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
+| ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
+|Landing Page|main| 23b653a | Initial commit  | create the README.md  | 16/09/2025 |
+|            |main| ac6322f | Create index.html  | create the index.html  | 17/09/2025 |
+|            |main| e557e41 | feat: added Section Home | added content in the section Home  | 17/09/2025 |
+|            |main| 3dab5df | feat: added assets carpet | create the assets carpet  | 17/09/2025 |
+|            |main| 80d023b | feat: added css carpet | create the css carpet  | 17/09/2025 |
+|            |main| 5b06e21 | feat: added javascript carpet | create the javascript carpet  | 17/09/2025 |
+|            |main| 0a8a575 | feat: added i18n.js file | create the i18n.js file | 17/09/2025 |
+|            |main| 6b71c13 | feat: added scripts | added content in the scripts section | 17/09/2025 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
