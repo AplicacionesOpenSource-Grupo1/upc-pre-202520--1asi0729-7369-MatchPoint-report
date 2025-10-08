@@ -1458,6 +1458,145 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 
 <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/be9ae9e468f7a4473f31d6448c7b4d122ceb0baa/images/Evidencia3.png" >
 
+### 5.2.2 Sprint 2
+
+#### 5.2.2.1 Sprint planning 2
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 2</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            02/10/25         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            20:35         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Universidad Peruana de Ciencias Aplicadas - Sede Monterrico
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Equipo de MatchPoint    
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Attendees (to planning meeting)</b>
+        </td>
+        <td>
+            - Javier Murillo, Mathias – U202022211 <br>
+            - Angulo Abud, Juan Carlos – U202317692 <br>
+            - Andy Alejandro, Mio Mejia – U202218531 <br>
+            - Oliver Jonseck Choque – U202312912 <br>
+            - Gianfranco Durand Vega - u202312614 <br>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 2</b> <br>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            En el Sprint 2 se desarrolló el front end de PlayMatch (producto de MatchPoint) y se conectó a una fake API para validar el flujo end-to-end sin backend real. Se implementaron los bounded contexts de registro e inicio de sesión (validaciones, manejo de                 errores y redirección), gestión de sesiones (persistencia y rutas protegidas), visualización de notificaciones (confirmaciones/cancelaciones de reserva y recordatorios) y búsqueda orientada al dominio (canchas y entrenadores) con filtros por deporte,                   distrito, precio y horario. Además, se agregó detalle de cancha/entrenador con disponibilidad simulada, creación/cancelación de reservas contra la fake API, estados loading/empty/error, y UI responsive alineada a la identidad de MatchPoint. Se realizaron               pruebas de humo y se dejó un build de demo listo para revisión interna.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b> <br>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            Se cumplió el objetivo principal y quedó verificado el flujo crítico de reserva (buscar → ver detalle → reservar → notificación) con navegación fluida entre módulos. Como oportunidades de mejora: alinear contratos de API (slots de disponibilidad, reglas de             cancelación y políticas de no-show) antes del desarrollo; ampliar pruebas en rutas protegidas y expiración de sesión; y reforzar accesibilidad (foco visible, contraste, labels). Para el siguiente sprint se prioriza formalizar el contrato con backend                    (OpenAPI) y añadir tests.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 1 Goal</b>
+        </td>
+        <td>
+            Desarrollar el front end de PlayMatch enfocándose en registro/inicio de sesión, notificaciones, gestión de sesiones y búsqueda de canchas y entrenadores, integrando una fake API para validar el flujo completo de búsqueda y reserva.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | Github Username |       Login/Register Leader (L), Collaborator (C)       | Funcionalidades (Pago, Reservas, Búsqueda (L), Collaborator (C)| Desplegar el servicio Leader (L), Collaborator (C) |
+| ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
+| Mathias Javier Murillo              | K1ngHulk        | (L)                                                     | (L)                                                            | (L)                                                |
+| Juan Carlos Angulo Abad             | Sve-nnN         | (C)                                                     | (C)                                                            | (C)                                                |
+| Andy Alejandro Mio mejia            | AndyMio17       | (C)                                                     | (C)                                                            | (C)                                                |
+| Oliver Jonseck Choque               | Olizzy-upc      | (C)                                                     | (C)                                                            | (C)                                                |
+| Gianfranco Durand Vega              | Azucarita1      | (C)                                                     | (C)                                                            | (C)                                                |
+
+#### 5.2.2.3. Sprint Backlog 2
+
+El objetivo principal del Sprint 2 fue evolucionar PlayMatch de una landing a una aplicación web funcional, enfocando los esfuerzos en la implementación del front end con integración a una fake API para validar el flujo end-to-end: autenticación (registro/inicio), gestión de sesiones y rutas protegidas, búsqueda y filtrado de canchas y entrenadores, y flujo de reservas (creación/cancelación) con notificaciones básicas.
+
+A continuación se presenta un screenshot del Board de Sprint 2 en Trello, junto con el enlace público correspondiente:
+
+https://trello.com/invite/b/68e6ae6b53c3484eda8316ad/ATTI9054d8daa0e3c3820c6ee9e5cc3b2366F60DC716/sprint-2-playmatch
+
+![Sprint-Backlog2](https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/a905d91499d2e450645b7bb5afcbc92b728ef04c/images/SprintBacklog%202.png)
+
+# Sprint 2
+
+| Id (US) | Título (US)                              | Id (Task) | Título (Task)                   | Descripción                                                                   | Estimation (Hours) | Status |
+|---------|------------------------------------------|-----------|----------------------------------|-------------------------------------------------------------------------------|-------------------:|--------|
+| US01    | Registrar un profesional                 | T01       | Registro de profesionales       | Formulario y lógica para registro de consultores.                             |                  4 | Done   |
+| US02    | Registrar un cliente                     | T01       | Registro de clientes            | Formulario y validaciones para registrar usuarios cliente.                    |                  4 | Done   |
+| US03    | Buscar profesionales disponibles         | T01       | Filtros de búsqueda             | Filtrar consultores por disponibilidad, especialidad y calificación.          |                  5 | Done   |
+| US04    | Recibir notificaciones de disponibilidad | T01       | Notificaciones de disponibilidad | Enviar notificaciones cuando un profesional actualiza su agenda.              |                  4 | Done   |
+| US10    | Crear y gestionar servicios              | T01       | Agenda de disponibilidad        | Configurar y actualizar la disponibilidad de los consultores.                 |                  6 | Done   |
+| US10    | Crear y gestionar servicios              | T02       | Agendamiento de sesiones        | Permitir a los clientes reservar sesiones.                                    |                  5 | Done   |
+| US10    | Crear y gestionar servicios              | T03       | Confirmación de sesiones        | Permitir a los consultores aceptar o rechazar sesiones.                       |                  4 | Done   |
+
+
 # Conclusiones
 
 El Sprint 1 permitió establecer las bases del proyecto mediante el diseño, desarrollo y despliegue de la landing page. Durante este proceso, el equipo consolidó los pilares del producto, alineando los objetivos visuales y funcionales con la propuesta de valor. Asimismo, se logró implementar una estructura clara y adaptable, aplicando buenas prácticas de HTML, CSS y JavaScript para garantizar una experiencia de usuario eficiente.
