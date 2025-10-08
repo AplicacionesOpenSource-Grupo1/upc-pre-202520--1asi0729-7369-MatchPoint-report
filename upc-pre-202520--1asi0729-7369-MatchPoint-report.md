@@ -1623,19 +1623,29 @@ En esta sección se explica y presenta los avances en implementación con relaci
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
+Durante el primer sprint, se alcanzaron diversos avances significativos en la creación de la landing page de PlayMatch. A continuación, se muestra un resumen de los principales resultados obtenidos:
 
+* Se incorporó y configuró el repositorio del frontend en GitHub, ampliando la estructura del proyecto para gestionar el desarrollo, las pruebas y la integración del código de la aplicación web.
+  
+<img width="1399" height="502" alt="image" src="https://github.com/user-attachments/assets/c098c9ba-fef6-426c-9e92-cdf8a2931331" />
 
 
 
 
 #### 5.2.2.6. Execution Evidence for Sprint Review.
 
+Durante el segundo sprint, se avanzó en la implementación del frontend del proyecto, incorporando nuevas funcionalidades y componentes interactivos. En esta etapa, se integraron servicios clave como el sistema de autenticación, la internacionalización (i18n) y el despliegue del proyecto, consolidando la base funcional de la aplicación web.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web y correcciones del informe. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, IntellijIdea, VisualStudio, Angular y AngularMaterial.
+
+<img width="950" height="501" alt="image" src="https://github.com/user-attachments/assets/086f3591-c560-4585-a463-2e3677d775c2" />
+
 
 # Conclusiones
 
