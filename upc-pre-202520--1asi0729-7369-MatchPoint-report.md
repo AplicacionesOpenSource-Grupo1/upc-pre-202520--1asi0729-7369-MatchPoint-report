@@ -1597,6 +1597,46 @@ https://trello.com/invite/b/68e6ae6b53c3484eda8316ad/ATTI9054d8daa0e3c3820c6ee9e
 | US10    | Crear y gestionar servicios              | T03       | Confirmación de sesiones        | Permitir a los consultores aceptar o rechazar sesiones.                       |                  4 | Done   |
 
 
+
+
+
+
+
+
+
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: FrontEnd. La sección inicia con una introducción que resume los principales avances en la implementación. A continuación se presenta la tabla que incluye, para cada repositorio, los commits relacionados con la implementación.
+
+| Repository                          | Branch  | Commit Id | Commit Message                                            | Commit Message Body                                               | Committed       |
+|-------------------------------------|----------|------------|-----------------------------------------------------------|-------------------------------------------------------------------|-----------------|
+| MatchPoint-Frontend                 | master   | 9dd8c1c    | feat: merge pull request #1 from AplicacionesOpenSource-Grupo1/develop | Se realizó la fusión del branch develop con la rama principal para integrar los cambios del equipo. | 08/10/2025      |
+| MatchPoint-Frontend                 | master   | e4488ec    | feat: deployed project. Missing languages                 | Se desplegó el proyecto en GitHub Pages. Pendiente completar traducciones en algunos módulos.          | 08/10/2025      |
+| MatchPoint-Frontend                 | master   | 873771e    | feat: i18n updated                                        | Se actualizaron los archivos de internacionalización (i18n) para soporte multilenguaje.                | 08/10/2025      |
+| MatchPoint-Frontend                 | master   | cdfe8e0    | feat: implement authentication system with login, register and guards | Se implementó el sistema de autenticación con login, registro y protección de rutas.                   | 08/10/2025      |
+| MatchPoint-Frontend                 | master   | bd3fbbc    | feat: base project structure implemented + docs           | Se creó la estructura base del proyecto junto con la documentación inicial.                            | 06/10/2025      |
+| MatchPoint-Frontend                 | master   | ba77425    | feat: initial project repository                          | Se creó el repositorio inicial del proyecto y se configuró la rama principal.                          | 01/10/2025      |
+
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+
+
+
+
+
+#### 5.2.2.6. Execution Evidence for Sprint Review.
+
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
 # Conclusiones
 
 El Sprint 1 permitió establecer las bases del proyecto mediante el diseño, desarrollo y despliegue de la landing page. Durante este proceso, el equipo consolidó los pilares del producto, alineando los objetivos visuales y funcionales con la propuesta de valor. Asimismo, se logró implementar una estructura clara y adaptable, aplicando buenas prácticas de HTML, CSS y JavaScript para garantizar una experiencia de usuario eficiente.
