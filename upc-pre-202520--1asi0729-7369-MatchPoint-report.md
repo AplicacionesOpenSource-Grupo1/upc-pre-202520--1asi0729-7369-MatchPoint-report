@@ -1631,10 +1631,13 @@ Durante el primer sprint, se alcanzaron diversos avances significativos en la cr
 
 
 
-
 #### 5.2.2.6. Execution Evidence for Sprint Review.
 
 Durante el segundo sprint, se avanzó en la implementación del frontend del proyecto, incorporando nuevas funcionalidades y componentes interactivos. En esta etapa, se integraron servicios clave como el sistema de autenticación, la internacionalización (i18n) y el despliegue del proyecto, consolidando la base funcional de la aplicación web.
+
+<img width="2513" height="1270" alt="image" src="https://github.com/user-attachments/assets/b7e51bd3-2ab3-4824-a814-c7ec0ce9a3bb" />
+
+
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
