@@ -1655,6 +1655,135 @@ La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web
 
 <img width="950" height="501" alt="image" src="https://github.com/user-attachments/assets/086f3591-c560-4585-a463-2e3677d775c2" />
 
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3.
+
+Para nuestro segundo sprint el equipo estableció que el desarrollos de nuestras tareas se realizarian en un aproximado de 15 horas
+
+# Sprint 3
+
+### 5.2.2 Sprint 2
+
+#### 5.2.2.1 Sprint planning 2
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            13/11/25         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            20:35         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Universidad Peruana de Ciencias Aplicadas - Sede Monterrico
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Equipo de MatchPoint    
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Attendees (to planning meeting)</b>
+        </td>
+        <td>
+            - Javier Murillo, Mathias – U202022211 <br>
+            - Angulo Abud, Juan Carlos – U202317692 <br>
+            - Andy Alejandro, Mio Mejia – U202218531 <br>
+            - Oliver Jonseck Choque – U202312912 <br>
+            - Gianfranco Durand Vega - u202312614 <br>
+        </td>
+</tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 3</b> <br>
+            <b>Review Summary</b>
+        </td>
+        <td>
+   Nuestro enfoque se centra en consolidar el desarrollo del sistema MatchPoint, logrando completar al menos el 40% de las funcionalidades del backend, optimizar el frontend con mejoras visuales y de experiencia de usuario, y establecer un pipeline de deployment funcional para ambos módulos.
+Consideramos que esto brindará mayor estabilidad al sistema, hará más eficiente el proceso de desarrollo y permitirá ofrecer una experiencia de navegación más fluida y profesional para los usuarios de la plataforma.
+Estos avances se validarán cuando los usuarios puedan interactuar con una versión operativa del sistema con navegación estable, el equipo consiga desplegar los cambios desde desarrollo hasta producción de manera automatizada, y se atiendan de forma satisfactoria las observaciones pendientes del sprint anterior y del sprint 2.
+    </tr>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 2</b> <br>
+            <b>Review Summary</b>
+        </td>
+        <td>
+           Durante el Sprint 2 se completaron correctamente todas las funcionalidades planificadas, incluyendo el desarrollo del frontend de PlayMatch (MatchPoint) y su integración con una fake API para validar el flujo end-to-end sin backend real. Se implementaron los bounded contexts de registro e inicio de sesión con validaciones, manejo de errores y redirección; la gestión de sesiones con persistencia y rutas protegidas; el módulo de notificaciones; y la búsqueda orientada al dominio para canchas y entrenadores con filtros por deporte, distrito, precio y horario. También se desarrolló el detalle de cancha/entrenador con disponibilidad simulada, la creación y cancelación de reservas contra la fake API, los estados de interfaz (loading, empty y error) y una UI responsive alineada a la identidad de MatchPoint, además de un build de demo listo para revisión interna.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b> <br>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            Se cumplió el objetivo principal y quedó verificado el flujo crítico de reserva (buscar → ver detalle → reservar → notificación) con navegación fluida entre módulos. Como oportunidades de mejora: alinear contratos de API (slots de disponibilidad, reglas de             cancelación y políticas de no-show) antes del desarrollo; ampliar pruebas en rutas protegidas y expiración de sesión; y reforzar accesibilidad (foco visible, contraste, labels). Para el siguiente sprint se prioriza formalizar el contrato con backend                    (OpenAPI) y añadir tests.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 1 Goal</b>
+        </td>
+        <td>
+            Desarrollar el front end de PlayMatch enfocándose en registro/inicio de sesión, notificaciones, gestión de sesiones y búsqueda de canchas y entrenadores, integrando una fake API para validar el flujo completo de búsqueda y reserva.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+</table>
+
+
+
+
 ## 5.3 Validation interviews
 
 ### 5.3.1 Diseño de Entrevistas
