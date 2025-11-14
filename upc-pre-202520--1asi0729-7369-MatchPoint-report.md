@@ -1831,8 +1831,8 @@ Estos avances se validarán cuando los usuarios puedan interactuar con una versi
 | Número de registro | Registro |
 |-------------------|-------------|
 | Segmento Objetivo | Aficionados |
-| 01 | **Nombre:** <br> **Edad:**  <br> **Duración:**   <br> **Link:**  |
-|    | **Resumen:**  |
+| 01 | **Nombre:** Elizabeth Carrasco <br> **Edad:** 42 <br> **Duración:** 2:45  <br> **Link:** https://drive.google.com/file/d/1VH5WYhF1B8Vv4u89lkOThFOUwzlii-6X/view?usp=sharing |
+|    | **Resumen:** Le parecio interesante la aplicación, sin embargo recomienda cambiar la paleta de colores y añadir más imagenes, comento que la pagina era muy simple, además que metodo de pago que suele utilizar es yape |
 | 02 | **Nombre:** <br> **Edad:**  <br> **Duración:**  <br> **Link:** |
 | | **Resumen**  |
 | Segmento Objetivo | Entrenadores |
