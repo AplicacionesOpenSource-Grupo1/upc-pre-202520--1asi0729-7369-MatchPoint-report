@@ -1655,6 +1655,61 @@ La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web
 
 <img width="950" height="501" alt="image" src="https://github.com/user-attachments/assets/086f3591-c560-4585-a463-2e3677d775c2" />
 
+## 5.3 Validation interviews
+
+### 5.3.1 Diseño de Entrevistas
+
+**Generales**
+
+¿Que es lo que más les llama la atención de la homepage?
+
+¿Alguna parte te resulta poco intuitivo o confuso?
+
+¿Te gustaria trabajar/utilizar este aplicativo?
+
+**Aficionados**
+
+¿Podria intentar realizar una reserva / contratar un entrenador?
+
+¿Que tanto utilizarias el aplicativo?
+
+¿Consideras que este aplicativo le resultara más conveniente?
+
+¿Que metodo de pago te gustaria que existiese?
+
+¿Se siente seguro al ver y utilizar la aplicacion.
+
+¿Que le gustaria que mejoremos, cambiemos o añadieramos a la aplicacion?
+
+**Entrenadores**
+
+¿Podria intentar acceder a la lista de entrenadores?
+
+¿Le resultaria util esta aplicacion?
+
+¿Siente que si usted posee un perfil en esta pagina lograria destacar?
+
+¿Se animaria a crear un perfil aqui?
+
+¿Por cual metodo de pago normalmente cobra usted?
+
+¿Le parece segura nuestra aplicacion?
+
+### 5.3.2 Registro de entrevistas
+
+| Número de registro | Registro |
+|-------------------|-------------|
+| Segmento Objetivo | Aficionados |
+| 01 | **Nombre:** <br> **Edad:**  <br> **Duración:**   <br> **Link:**  |
+|    | **Resumen:**  |
+| 02 | **Nombre:** <br> **Edad:**  <br> **Duración:**  <br> **Link:** |
+| | **Resumen**  |
+| Segmento Objetivo | Entrenadores |
+| 01 | **Nombre:** <br> **Edad:**  <br> **Duración:**  <br> **Link:** |
+| | **Resumen:**  |
+| 02 | **Nombre:** Stephano Landauri<br> **Edad:**  20<br> **Duración:** 3:44 <br> **Link:** https://drive.google.com/file/d/1LFyljEu_MoexlI-wxAQuFea1qVqvkSiR/view?usp=sharing |
+| | **Resumen:** Se siente conforme con la pagina, su diseño y la estetica que posee, desearia que pueda realizar pagos mediante el aplicativo de yape |
+
 
 # Conclusiones
 
