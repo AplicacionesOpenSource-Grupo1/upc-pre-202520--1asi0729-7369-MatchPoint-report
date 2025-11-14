@@ -1664,11 +1664,6 @@ La meta de este sprint fue la implementación del FrontEnd de nuestra pagina web
 
 Para nuestro segundo sprint el equipo estableció que el desarrollos de nuestras tareas se realizarian en un aproximado de 15 horas
 
-# Sprint 3
-
-### 5.2.2 Sprint 2
-
-#### 5.2.2.1 Sprint planning 2
 
 <table align="center" border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -1783,6 +1778,37 @@ Estos avances se validarán cuando los usuarios puedan interactuar con una versi
     </tr>
 </table>
 
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | Github Username |       Login/Register Leader (L), Collaborator (C)       | Funcionalidades (Pago, Reservas, Búsqueda (L), Collaborator (C)| Desplegar el servicio Leader (L), Collaborator (C) |
+| ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
+| Mathias Javier Murillo              | K1ngHulk        | (L)                                                     | (L)                                                            | (L)                                                |
+| Juan Carlos Angulo Abad             | Sve-nnN         | (C)                                                     | (C)                                                            | (C)                                                |
+| Andy Alejandro Mio mejia            | AndyMio17       | (C)                                                     | (C)                                                            | (C)                                                |
+| Oliver Jonseck Choque               | Olizzy-upc      | (C)                                                     | (C)                                                            | (C)                                                |
+| Gianfranco Durand Vega              | Azucarita1      | (C)                                                     | (C)                                                            | (C)                                                |
+
+#### 5.2.3.3. Sprint Backlog 3
+
+El objetivo principal del Sprint 3 fue implementar y consolidar el backend real de PlayMatch, migrando el sistema desde una fake API a una arquitectura funcional con servicios, controladores y persistencia en base de datos. Durante este sprint se desarrollaron los módulos esenciales que permiten el funcionamiento completo de la plataforma desde el lado del servidor: autenticación segura, gestión de usuarios, administración de canchas y entrenadores, creación y cancelación de reservas, y envío de notificaciones básicas.
+
+A continuación se presenta un screenshot del Board de Sprint 3 en Trello, junto con el enlace público correspondiente:
+
+https://trello.com/invite/b/68e6ae6b53c3484eda8316ad/ATTI9054d8daa0e3c3820c6ee9e5cc3b2366F60DC716/sprint-2-playmatch
+
+![Sprint-Backlog2](https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/a905d91499d2e450645b7bb5afcbc92b728ef04c/images/SprintBacklog%202.png)
+
+# Sprint 3
+
+| Id (US) | Título (US)                              | Id (Task) | Título (Task)                   | Descripción                                                                   | Estimation (Hours) | Status |
+|---------|------------------------------------------|-----------|----------------------------------|-------------------------------------------------------------------------------|-------------------:|--------|
+| US01    | Registrar un profesional                 | T01       | Endpoint de registro de profesionales       | Implementar controlador, servicio y repositorio para crear profesionales en la BD.                             |                  6 | Done   |
+| US02    | Registrar un cliente                     | T01       | Endpoint de registro de clientes            | Crear API REST para registrar clientes con validación y encriptación de datos sensibles.                    |                  6 | Done   |
+| US03    | Buscar profesionales disponibles         | T01       | API de filtros y búsqueda             | Implementar consulta por disponibilidad, especialidad y calificación usando queries reales.          |                  7 | Done   |
+| US04    | Recibir notificaciones de disponibilidad | T01       | Servicio de notificaciones | Implementar lógica backend para enviar notificaciones cuando un profesional actualice agenda.              |                  5 | Done   |
+| US10    | Crear y gestionar servicios              | T01       | API de disponibilidad de profesionales        | Backend para registrar, editar y consultar disponibilidad en la base de datos.                 |                  7 | Done   |
+| US10    | Crear y gestionar servicios              | T02       | API de reservas        | Endpoint para crear, cancelar y listar reservas. Incluye validación de horarios.                                    |                  6 | Done   |
+| US10    | Crear y gestionar servicios              | T03       | API de confirmación de sesiones        | Implementar lógica para que el profesional acepte o rechace una sesión.                       |                  5 | Done   |
 
 
 
