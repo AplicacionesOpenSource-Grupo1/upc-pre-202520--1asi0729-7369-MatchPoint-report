@@ -1,37 +1,35 @@
-<h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
-
-<h3 align="center"> Ingeniería de Software </h3>
-<h3 align="center"> Ciclo 2025 - 2</h3>
-
-<br>
-
 <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo de la Universidad" width="150"/>
+
+# **Universidad Peruana de Ciencias Aplicadas**
+## **Ingeniería de Software**
+
+**Periodo:** 2025-20  
+**Curso:** 1ACC0238 – Aplicaciones para Dispositivos Móviles  
+**NRC:** 1827  
+**Docente:** David Gerardo Quevedo Velasco  
+
+---
+
+## **Informe del Trabajo Final**
+
+**Startup:** FuelTrack  
+**Producto:** FuelTrack Pro  
+
+---
+### **Integrantes (orden alfabético):**
+
+U20211584 – Alvarado De La Cruz, Juan Carlos  
+U20211837 – Durand Vega, Gianfranco Jared  
+U20213278 – Espejo Gamarra, Bryan Ronald  
+U20213322 – Guerrero Vásquez, Jhon Danny  
+U20214011 – Luque Minaya, Renzo Andrés  
+
+**Octubre 2025**
 </div>
+https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png
 
-<br>
 
-<h1 align="center"> TF1 Report </h1>
-
-<h3 align="center"> Desarrollo de Aplicaciones Open Source - 7369 </h3>
-
-<h3 align="center"> Docente: Wilder Julio Espinoza Bravo </h3>
-
-<h3> Product: PlayMatch</h3>
-
-<h3> Team Members: </h3>
-
-| Member                           |    Code    |
-| :------------------------------- | :--------: |
-| Javier Murillo, Mathias | U202022211 |
-| Angulo Abud, Juan Carlos | U202317692 |
-| Andy Alejandro, Mio Mejia| U202218531 |
-| Oliver Jonseck Choque | U202312912 |
-| Durand Vega, Gianfranco | u202312614 |
-
-<h3 align="center">2025</h3>
-
-<div style="page-break-after: always;"></div>
 
 # Registro de Versiones del Informe
 
