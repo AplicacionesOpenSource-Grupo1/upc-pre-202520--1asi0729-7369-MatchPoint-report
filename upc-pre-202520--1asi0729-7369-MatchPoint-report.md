@@ -1,5 +1,5 @@
 <div align="center">
-<img src="img/logo.jpg" alt="Logo de la Universidad" width="150"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo de la Universidad" width="150"/>
 
 # **Universidad Peruana de Ciencias Aplicadas**
 ## **Ingeniería de Software**
@@ -13,8 +13,8 @@
 
 ## **Informe del Trabajo Final**
 
-**Startup:** FuelTrack  
-**Producto:** FuelTrack Pro  
+**Startup:** MatchPoint  
+**Producto:** MatchPoint  
 
 ---
 ### **Integrantes (orden alfabético):**
