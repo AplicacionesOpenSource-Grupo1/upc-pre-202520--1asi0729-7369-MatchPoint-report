@@ -1720,19 +1720,18 @@ Para nuestro segundo sprint el equipo estableció que el desarrollos de nuestras
             - Angulo Abud, Juan Carlos – U202317692 <br>
             - Andy Alejandro, Mio Mejia – U202218531 <br>
             - Oliver Jonseck Choque – U202312912 <br>
-            - Gianfranco Durand Vega - u202312614 <br>
+            - Gianfranco Durand Vega - U202312614 <br>
         </td>
-</tr>
+    </tr>
     <tr align="left">
         <td>
             <b>Sprint n - 3</b> <br>
             <b>Review Summary</b>
         </td>
         <td>
-   Nuestro enfoque se centra en consolidar el desarrollo del sistema MatchPoint, logrando completar al menos el 40% de las funcionalidades del backend, optimizar el frontend con mejoras visuales y de experiencia de usuario, y establecer un pipeline de deployment funcional para ambos módulos.
-Consideramos que esto brindará mayor estabilidad al sistema, hará más eficiente el proceso de desarrollo y permitirá ofrecer una experiencia de navegación más fluida y profesional para los usuarios de la plataforma.
-Estos avances se validarán cuando los usuarios puedan interactuar con una versión operativa del sistema con navegación estable, el equipo consiga desplegar los cambios desde desarrollo hasta producción de manera automatizada, y se atiendan de forma satisfactoria las observaciones pendientes del sprint anterior y del sprint 2.
-    </tr>
+            Durante el Sprint 3 se logró implementar aproximadamente el 40% del backend real de MatchPoint, estableciendo la base sólida del sistema mediante la creación de la API REST, los módulos de autenticación con JWT, la gestión de usuarios y profesionales, el servicio de disponibilidad y el flujo completo de reservas conectado a la base de datos. También se configuró un entorno de despliegue inicial para el backend y se habilitaron endpoints protegidos, asegurando un consumo estable por parte del frontend.
+            Estos avances se consideran completados cuando las operaciones principales del dominio (registro, login, búsqueda, disponibilidad y reservas) funcionan de extremo a extremo contra el backend real, y el equipo puede desplegar los servicios desde desarrollo hacia producción en un pipeline funcional.
+        </td>
     </tr>
     <tr align="left">
         <td>
@@ -1740,7 +1739,7 @@ Estos avances se validarán cuando los usuarios puedan interactuar con una versi
             <b>Review Summary</b>
         </td>
         <td>
-           Durante el Sprint 2 se completaron correctamente todas las funcionalidades planificadas, incluyendo el desarrollo del frontend de PlayMatch (MatchPoint) y su integración con una fake API para validar el flujo end-to-end sin backend real. Se implementaron los bounded contexts de registro e inicio de sesión con validaciones, manejo de errores y redirección; la gestión de sesiones con persistencia y rutas protegidas; el módulo de notificaciones; y la búsqueda orientada al dominio para canchas y entrenadores con filtros por deporte, distrito, precio y horario. También se desarrolló el detalle de cancha/entrenador con disponibilidad simulada, la creación y cancelación de reservas contra la fake API, los estados de interfaz (loading, empty y error) y una UI responsive alineada a la identidad de MatchPoint, además de un build de demo listo para revisión interna.
+            Durante el Sprint 2 se completaron correctamente todas las funcionalidades planificadas, incluyendo el desarrollo del frontend de PlayMatch (MatchPoint) y su integración con una fake API para validar el flujo end-to-end sin backend real. Se implementaron los bounded contexts de registro e inicio de sesión con validaciones, manejo de errores y redirección; la gestión de sesiones con persistencia y rutas protegidas; el módulo de notificaciones; y la búsqueda orientada al dominio para canchas y entrenadores con filtros por deporte, distrito, precio y horario. También se desarrolló el detalle de cancha/entrenador con disponibilidad simulada, la creación y cancelación de reservas contra la fake API, los estados de interfaz (loading, empty y error) y una UI responsive alineada a la identidad de MatchPoint, además de un build de demo listo para revisión interna.
         </td>
     </tr>
     <tr align="left">
@@ -1749,7 +1748,7 @@ Estos avances se validarán cuando los usuarios puedan interactuar con una versi
             <b>Retrospective Summary</b>
         </td>
         <td>
-            Se cumplió el objetivo principal y quedó verificado el flujo crítico de reserva (buscar → ver detalle → reservar → notificación) con navegación fluida entre módulos. Como oportunidades de mejora: alinear contratos de API (slots de disponibilidad, reglas de             cancelación y políticas de no-show) antes del desarrollo; ampliar pruebas en rutas protegidas y expiración de sesión; y reforzar accesibilidad (foco visible, contraste, labels). Para el siguiente sprint se prioriza formalizar el contrato con backend                    (OpenAPI) y añadir tests.
+            Se cumplió el objetivo principal y quedó verificado el flujo crítico de reserva (buscar → ver detalle → reservar → notificación) con navegación fluida entre módulos. Como oportunidades de mejora: alinear contratos de API (slots de disponibilidad, reglas de cancelación y políticas de no-show) antes del desarrollo; ampliar pruebas en rutas protegidas y expiración de sesión; y reforzar accesibilidad (foco visible, contraste, labels). Para el siguiente sprint se prioriza formalizar el contrato con backend (OpenAPI) y añadir tests.
         </td>
     </tr>
     <tr align="left">
@@ -1778,6 +1777,7 @@ Estos avances se validarán cuando los usuarios puedan interactuar con una versi
     </tr>
 </table>
 
+
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
 | Team Member (Last Name, First Name) | Github Username |       Login/Register Leader (L), Collaborator (C)       | Funcionalidades (Pago, Reservas, Búsqueda (L), Collaborator (C)| Desplegar el servicio Leader (L), Collaborator (C) |
@@ -1794,7 +1794,7 @@ El objetivo principal del Sprint 3 fue implementar y consolidar el backend real 
 
 A continuación se presenta un screenshot del Board de Sprint 3 en Trello, junto con el enlace público correspondiente:
 
-https://trello.com/invite/b/68e6ae6b53c3484eda8316ad/ATTI9054d8daa0e3c3820c6ee9e5cc3b2366F60DC716/sprint-2-playmatch
+https://trello.com/invite/b/6917b53edd983294cc720779/ATTI7f8b2522d5a0fa483333b19cd41e22ca8B55C6AD/sprint-backlog-3
 
 ![Sprint-Backlog2](https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/a905d91499d2e450645b7bb5afcbc92b728ef04c/images/SprintBacklog%202.png)
 
