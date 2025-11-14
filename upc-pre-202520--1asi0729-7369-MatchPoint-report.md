@@ -1933,11 +1933,7 @@ La meta de este sprint fue implementar los principales módulos del Backend de P
 | Segmento Objetivo | Aficionados |
 | 01 | **Nombre:** Elizabeth Carrasco <br> **Edad:** 42 <br> **Duración:** 2:45  <br> **Link:** https://drive.google.com/file/d/1VH5WYhF1B8Vv4u89lkOThFOUwzlii-6X/view?usp=sharing |
 |    | **Resumen:** Le parecio interesante la aplicación, sin embargo recomienda cambiar la paleta de colores y añadir más imagenes, comento que la pagina era muy simple, además que metodo de pago que suele utilizar es yape |
-| 02 | **Nombre:** <br> **Edad:**  <br> **Duración:**  <br> **Link:** |
-| | **Resumen**  |
 | Segmento Objetivo | Entrenadores |
-| 01 | **Nombre:** <br> **Edad:**  <br> **Duración:**  <br> **Link:** |
-| | **Resumen:**  |
 | 02 | **Nombre:** Stephano Landauri<br> **Edad:**  20<br> **Duración:** 3:44 <br> **Link:** https://drive.google.com/file/d/1LFyljEu_MoexlI-wxAQuFea1qVqvkSiR/view?usp=sharing |
 | | **Resumen:** Se siente conforme con la pagina, su diseño y la estetica que posee, desearia que pueda realizar pagos mediante el aplicativo de yape |
 
