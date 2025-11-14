@@ -5,9 +5,9 @@
 ## **Ingeniería de Software**
 
 **Periodo:** 2025-20  
-**Curso:** 1ACC0238 – Aplicaciones para Dispositivos Móviles  
-**NRC:** 1827  
-**Docente:** David Gerardo Quevedo Velasco  
+**Curso:** 1ASI0729 – Desarrollo de Aplicaciones Open Source
+**NRC:** 7369  
+**Docente:** Wilder Julio Espinoza
 
 ---
 
