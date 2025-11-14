@@ -1812,6 +1812,80 @@ https://trello.com/invite/b/68e6ae6b53c3484eda8316ad/ATTI9054d8daa0e3c3820c6ee9e
 
 
 
+
+
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+
+En esta sección se explica y presenta la evidencia del avance en la implementación con relación a los productos desarrollados durante el Sprint 3, cuyo alcance corresponde al Backend.
+El sprint se enfocó en construir la API REST completa de PlayMatch, integrando módulos clave como autenticación, gestión de usuarios, manejo de disponibilidad, reservas, notificaciones y conexión con la base de datos.
+
+| Repository                          | Branch  | Commit Id | Commit Message                                            | Commit Message Body                                               | Committed       |
+|-------------------------------------|----------|------------|-----------------------------------------------------------|-------------------------------------------------------------------|-----------------|
+| MatchPoint-Backend                 | master   | 9dd8c1c    | feat: initial backend structure + database config | Se creó la estructura base del proyecto y se configuró la conexión inicial a la base de datos. | 08/11/2025      |
+| MatchPoint-Backend                 | master   | e4488ec    | feat: implement user & professional registration endpoints                 | Se implementaron los endpoints para registrar clientes y profesionales con validación y hashing.          | 08/11/2025      |
+| MatchPoint-Backend                 | master   | 873771e    | feat: auth module with JWT + login endpoint                                       | Se agregó autenticación con JWT, middleware de seguridad y el endpoint de inicio de sesión.                | 08/11/2025      |
+| MatchPoint-Backend                 | master   | cdfe8e0    | feat: availability and filtering services | Implementación del módulo de disponibilidad y filtros para búsqueda de profesionales.                   | 08/11/2025      |
+| MatchPoint-Backend                 | master   | bd3fbbc    | feat: reservations CRUD           | Implementación del CRUD de reservas: creación, cancelación y consulta con validación de horarios.                            | 06/11/2025      |
+| MatchPoint-Backend                 | master   | ba77425    | feat: notification service                          | Se implementaron notificaciones básicas para cambios de disponibilidad y confirmación de sesiones.                          | 01/11/2025      |
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+Durante el tercer sprint, se alcanzaron avances significativos en la implementación del backend real de PlayMatch. Las principales funcionalidades logradas son:
+
+- Configuración del proyecto backend con controladores, servicios y repositorios.
+- Conexión estable y estructurada con la base de datos.
+- API REST funcional para registro, inicio de sesión y gestión de usuarios.
+- Implementación del módulo de reservas con validación de disponibilidad.
+- Creación de servicios para búsqueda avanzada y filtros dinámicos.
+- Integración del sistema de notificaciones basado en eventos del backend.
+
+A continuación, se muestra la evidencia del funcionamiento del proyecto backend estructurado:
+  
+<img width="1399" height="502" alt="image" src="https://github.com/user-attachments/assets/c098c9ba-fef6-426c-9e92-cdf8a2931331" />
+
+
+
+#### 5.2.3.6. Execution Evidence for Sprint Review.
+
+Durante el tercer sprint se desarrollaron los distintos módulos funcionales del backend, que permiten al frontend consumir datos reales mediante servicios API.
+Entre los logros principales se encuentran:
+
+-  completa del sistema de autenticación mediante JWT.
+- Creación de endpoints protegidos y políticas de acceso.
+- Desarrollo del servicio de disponibilidad y reservas.
+- Estructuración de la lógica de negocio con arquitectura modular.
+- Pruebas básicas de los endpoints utilizando herramientas como Postman e Insomnia.
+
+<img width="2513" height="1270" alt="image" src="https://github.com/user-attachments/assets/b7e51bd3-2ab3-4824-a814-c7ec0ce9a3bb" />
+
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para el despliegue de nuestro Backend, se utilizó un repositorio dedicado en GitHub y se trabajó con ramas para organizar los módulos del sistema.
+Durante este sprint se configuró el entorno de despliegue utilizando contenedores (Docker) y la API quedó accesible para consumo interno del equipo.
+
+https://matchpoint-front.web.app
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+La meta de este sprint fue implementar los principales módulos del Backend de PlayMatch y consolidar la base de la API. Para ello, el equipo utilizó diversas herramientas de desarrollo colaborativo:
+
+- GitHub para control de versiones y gestión de ramas.
+- IntelliJ IDEA como entorno principal para desarrollo backend.
+- Postman/Insomnia para pruebas de endpoints REST.
+- Docker y Docker Compose para el despliegue y configuración del entorno.
+- Scrum como framework para planificación, ejecución y revisión del sprint.
+
+<img width="950" height="501" alt="image" src="https://github.com/user-attachments/assets/086f3591-c560-4585-a463-2e3677d775c2" />
+
+
+
+
+
+
 ## 5.3 Validation interviews
 
 ### 5.3.1 Diseño de Entrevistas
