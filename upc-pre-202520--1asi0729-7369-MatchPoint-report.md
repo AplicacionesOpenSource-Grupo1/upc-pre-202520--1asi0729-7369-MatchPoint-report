@@ -7,7 +7,7 @@
 **Periodo:** 2025-20  
 **Curso:** 1ASI0729 – Desarrollo de Aplicaciones Open Source
 **NRC:** 7369  
-**Docente:** Wilder Julio Espinoza
+**Docente:** Wilder Julio Espinoza Bravo
 
 ---
 
