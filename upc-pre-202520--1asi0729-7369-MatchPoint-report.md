@@ -17,17 +17,17 @@
 **Producto:** MatchPoint  
 
 ---
-### **Integrantes (orden alfabético):**
+### **Integrantes**
 
-U20211584 – Angulo Abad, Juan Carlos
+U20211584 - Angulo Abad, Juan Carlos
 
-U20211837 – Choque, Oliver Jonseck
+U20211837 - Choque, Oliver Jonseck
 
-U20213278 – Durand Vega, Gianfranco
+U20213278 - Durand Vega, Gianfranco
 
-U20213322 – Mio Mejía, Andy Alejandro
+U20213322 - Mio Mejía, Andy Alejandro
 
-U20214011 – Murillo, Mathias Javier
+U20214011 - Murillo, Mathias Javier
 
 **Octubre 2025**
 </div>
