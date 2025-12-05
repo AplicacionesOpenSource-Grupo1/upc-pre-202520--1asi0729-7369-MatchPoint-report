@@ -400,7 +400,7 @@ https://miro.com/welcomeonboard/MXdjbmptRWZsMStuTWpROTJsb2VDQS9yRlJ5bzV1YUo0S2J4
 
 <div style="page-break-after:always;"></div>
 
-# Capitulo II: Requirements Elicitation & Analysis
+# Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
 
@@ -2220,6 +2220,10 @@ La meta de este sprint fue completar el despliegue integral de MatchPoint y vali
 
 <div style="page-break-after:always;"></div>
 
+## 5.4 Video About-the-Product
+
+Video About the Team [https://drive.google.com/file/d/1cOseyarC8PKkouLnkpScsU-uJYhlL1qV/view?usp=sharing](https://drive.google.com/file/d/1cOseyarC8PKkouLnkpScsU-uJYhlL1qV/view?usp=sharing)
+
 # Conclusiones
 
 El Sprint 1 permitió establecer las bases del proyecto mediante el diseño, desarrollo y despliegue de la landing page. Durante este proceso, el equipo consolidó los pilares del producto, alineando los objetivos visuales y funcionales con la propuesta de valor. Asimismo, se logró implementar una estructura clara y adaptable, aplicando buenas prácticas de HTML, CSS y JavaScript para garantizar una experiencia de usuario eficiente.
@@ -2230,7 +2234,7 @@ El despliegue exitoso de la landing page representa un primer paso fundamental p
 
 # About The team
 
-Video About the Team [https://drive.google.com/file/d/1cOseyarC8PKkouLnkpScsU-uJYhlL1qV/view?usp=sharing](https://drive.google.com/file/d/1cOseyarC8PKkouLnkpScsU-uJYhlL1qV/view?usp=sharing)
+
 
 <div style="page-break-after:always;"></div>
 
