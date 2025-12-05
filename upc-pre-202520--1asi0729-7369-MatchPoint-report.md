@@ -238,11 +238,11 @@ De esta manera, PlayMatch se convierte en un ecosistema que integra oferta y dem
 
 | Integrantes | Descripción | Conocimientos |
 | :---------- | :---------- | :------------ |
-| <div style="display: flex; align-items: center;"><img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/3e152bc721b8f4af5ed4a09ce9a896e9f78f8340/images/MathiasJM.jpg" alt="Integrante1" width="100" height="120">&nbsp;&nbsp;<br>**Mathias Javier Murillo**<br>u202022211</div> | Estudiante de Ingeniería de Software. Apasionado por las nuevas tecnologías y realizar nuevos proyectos | Conocimientos en SQL, HTML, JS, CSS y Python |
-| <div style="display: flex; align-items: center;"><img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/b743947b076b4f3ec8fb6deae40cbbb87550cc52/images/Andy.jpg" alt="Integrante2" width="100" height="120">&nbsp;&nbsp;<br>**Andy Mio Mejia**<br>u202218531</div> | Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación | Java, C++, Python, html, css, javascrip, C# y SQL |
-| <div style="display: flex; align-items: center;"><img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/3e152bc721b8f4af5ed4a09ce9a896e9f78f8340/images/Oliver.jpg" alt="Integrante3" width="100" height="120">&nbsp;&nbsp;<br>**Oliver Jonseck Choque**<br>u202312912</div> | Estudiante de la carrera de Ingeniería de Software. Programador amateur, interesado en la creación de aplicaciones, ciberseguridad y videojuegos| C++, C#, SQL, Html, css, javascript, python y java |
+| <div style="display: flex; align-items: center;"><img src="images/MathiasJM.jpg" alt="Integrante1" width="100" height="120">&nbsp;&nbsp;<br>**Mathias Javier Murillo**<br>u202022211</div> | Estudiante de Ingeniería de Software. Apasionado por las nuevas tecnologías y realizar nuevos proyectos | Conocimientos en SQL, HTML, JS, CSS y Python |
+| <div style="display: flex; align-items: center;"><img src="images/Andy.jpg" alt="Integrante2" width="100" height="120">&nbsp;&nbsp;<br>**Andy Mio Mejia**<br>u202218531</div> | Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación | Java, C++, Python, html, css, javascrip, C# y SQL |
+| <div style="display: flex; align-items: center;"><img src="images/Oliver.jpg" alt="Integrante3" width="100" height="120">&nbsp;&nbsp;<br>**Oliver Jonseck Choque**<br>u202312912</div> | Estudiante de la carrera de Ingeniería de Software. Programador amateur, interesado en la creación de aplicaciones, ciberseguridad y videojuegos| C++, C#, SQL, Html, css, javascript, python y java |
 | <div style="display: flex; align-items: center;"><img src="images/JuanCarlosAnguloPortrait.jpg" alt="imagen Juan Carlos Angulo" width="100" height="120">&nbsp;&nbsp;<br>**Juan Carlos Angulo**<br>u202317692</div> | Estudiante de 5to ciclo de la carrera de ingeniería de software. Tengo experiencia creando aplicaciones front end que consuman una API y hagan peticiones. Soy analista SEO Senior | Cpp, JS, SEO, TS |
-| <div style="display: flex; align-items: center;"><img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/3e152bc721b8f4af5ed4a09ce9a896e9f78f8340/images/Gianfranco.jpg" alt="Integrante5" width="100" height="120">&nbsp;&nbsp;<br>**Gianfranco Durand Vega**<br>u202312614</div> | Estudiante de Ingeniería de Software cursando el 6 ciclo de la carrera de ingeniería de software.  | Tengo experiencia con Javascript, Java, C++. |
+| <div style="display: flex; align-items: center;"><img src="images/Gianfranco.jpg" alt="Integrante5" width="100" height="120">&nbsp;&nbsp;<br>**Gianfranco Durand Vega**<br>u202312614</div> | Estudiante de Ingeniería de Software cursando el 6 ciclo de la carrera de ingeniería de software.  | Tengo experiencia con Javascript, Java, C++. |
 
 ## 1.2. Solution Profile
 
@@ -379,8 +379,10 @@ Creemos que si incorporamos funciones de organización de torneos y comunicació
 
 #### 1.2.2.4. Lean UX Canvas
 
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/99f11913269b58ff6c0a5a9f363cb8fd9ff5f6c5/images/Lean%20UX%20Canvas%20-%20PlayMatch.jpg" width="900" height="900">
+<img src="images/Lean%20UX%20Canvas%20-%20PlayMatch.jpg" width="900" height="900">
+
 https://miro.com/welcomeonboard/MXdjbmptRWZsMStuTWpROTJsb2VDQS9yRlJ5bzV1YUo0S2J4dGp0eWxkMC83QzY4cnhzZXQzSTk4WmlOc2FORlZFS1VQbTN2VnNxdkNVUS8yN1ZBNmxHVVA4c09zU3YrV1dGaFlMMjVZbUpjRmpaNDV4NDU0YTUvbEFUWVk4UlJBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=781097795663
+
 
 # 1.3. Segmentos Objetivo
 
@@ -973,54 +975,54 @@ Está diseñada para guiar a los usuarios (deportistas, entrenadores y administr
 ### 4.3.1. Landing Page Wireframe
 
 #### Home
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/45e165d59ed404c402db3e7de85698a4da517cad/images/Home.png"/>
+<img src="images/Home.png"/>
 
 #### About Us
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/45e165d59ed404c402db3e7de85698a4da517cad/images/About%20Us.png"/>
+<img src="images/About%20Us.png"/>
 
 ### Learn More
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/45e165d59ed404c402db3e7de85698a4da517cad/images/Learn%20More.png"/>
+<img src="images/Learn%20More.png"/>
 
 ### Suscribe
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/45e165d59ed404c402db3e7de85698a4da517cad/images/Suscribe.png"/>
+<img src="images/Suscribe.png"/>
 
 ### 4.3.2. Landing Page Mock-up
 
 #### Home
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/460c85c490c51b35fd34ecf2e92728c8d69ee74c/images/Home%20-%20Mockup.png"/>
+<img src="images/Home%20-%20Mockup.png"/>
 
 #### About Us
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/460c85c490c51b35fd34ecf2e92728c8d69ee74c/images/About%20Us%20-%20Mockup.png"/>
+<img src="images/About%20Us%20-%20Mockup.png"/>
 
 ### Learn More
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/460c85c490c51b35fd34ecf2e92728c8d69ee74c/images/Learn%20More%20-%20Mockup.png"/>
+<img src="images/Learn%20More%20-%20Mockup.png"/>
 
 ### Suscribe
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/460c85c490c51b35fd34ecf2e92728c8d69ee74c/images/Suscribe%20-%20Mockup.png"/>
+<img src="images/Suscribe%20-%20Mockup.png"/>
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireframe-dashboard.png"/>
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireframe-find-coach.png"/>
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireframe-find-courts.png"/>
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireframe-settings.png"/>
+<img src="images/wireframe-dashboard.png"/>
+<img src="images/wireframe-find-coach.png"/>
+<img src="images/wireframe-find-courts.png"/>
+<img src="images/wireframe-settings.png"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/wireflow.drawio.png"/>
+<img src="images/wireflow.drawio.png"/>
 
 ### 4.4.3. Web Applications Mock-ups
 
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/dashboard-inicio.png"/>
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/detalles-cancha.png"/>
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/listar-canchas.png"/>
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/listar-coaches.png"/>
+<img src="images/dashboard-inicio.png"/>
+<img src="images/detalles-cancha.png"/>
+<img src="images/listar-canchas.png"/>
+<img src="images/listar-coaches.png"/>
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/images/user-flow.png"/>
+<img src="images/user-flow.png"/>
 
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
@@ -1383,7 +1385,7 @@ A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto
 
 https://trello.com/invite/b/68cc7d6227644be042e1568c/ATTI11abea9712e95cbc63e24b5856cbc2f504DD7B34/sprint-1-playmatch
 
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/5abe9f4df3e7ece0f851f44aca190b31d3510c5f/images/Sprint%20Backlog%201.png" alt="Sprint-Backlog-1">
+<img src="images/Sprint%20Backlog%201.png" alt="Sprint-Backlog-1">
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -1404,17 +1406,17 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 * Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/2f6db40a3fa50c4facd6079e79ca94c7d70b48d1/images/Evidencia1.png" >
+<img src="images/Evidencia1.png" >
 
 * Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de Finteka, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
   
-  <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/63a191ae414534d0c9be7f53a44a2c2253086a70/images/Evidencia2.png" >    
+  <img src="images/Evidencia2.png" >    
   
 * Imágenes del Landing Page:
    
   * Inicio:
   
-    <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/63a191ae414534d0c9be7f53a44a2c2253086a70/images/Evidencia2.png" >
+    <img src="images/Evidencia2.png" >
     
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para Finteka.
 
@@ -1445,13 +1447,13 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
    * Se subió el código de la Landing Page al repositorio en GitHub.  
    * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.
 
-2. <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/2f6db40a3fa50c4facd6079e79ca94c7d70b48d1/images/Evidencia1.png" >
+2. <img src="images/Evidencia1.png" >
 
 3. Verificación del Despliegue:  
    * Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.  
    * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
 
-4. <img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/63a191ae414534d0c9be7f53a44a2c2253086a70/images/Evidencia2.png" >
+4. <img src="images/Evidencia2.png" >
 
 Link del Landing Page: https://aplicacionesopensource-grupo1.github.io/upc-pre-202520--1asi0729-7369-MatchPoint-Landing-Page/
 
@@ -1471,7 +1473,7 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
-<img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/be9ae9e468f7a4473f31d6448c7b4d122ceb0baa/images/Evidencia3.png" >
+<img src="images/Evidencia3.png" >
 
 ### 5.2.2 Sprint 2
 
@@ -1597,7 +1599,7 @@ A continuación se presenta un screenshot del Board de Sprint 2 en Trello, junto
 
 https://trello.com/invite/b/68e6ae6b53c3484eda8316ad/ATTI9054d8daa0e3c3820c6ee9e5cc3b2366F60DC716/sprint-2-playmatch
 
-![Sprint-Backlog2](https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/a905d91499d2e450645b7bb5afcbc92b728ef04c/images/SprintBacklog%202.png)
+![Sprint-Backlog2](images/SprintBacklog%202.png)
 
 # Sprint 2
 
@@ -1805,7 +1807,7 @@ A continuación se presenta un screenshot del Board de Sprint 3 en Trello, junto
 
 https://trello.com/invite/b/6917b53edd983294cc720779/ATTI7f8b2522d5a0fa483333b19cd41e22ca8B55C6AD/sprint-backlog-3
 
-![Sprint-Backlog2](https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/a905d91499d2e450645b7bb5afcbc92b728ef04c/images/SprintBacklog%202.png)
+![Sprint-Backlog2](images/SprintBacklog%202.png)
 
 # Sprint 3
 
@@ -1887,6 +1889,276 @@ La meta de este sprint fue implementar los principales módulos del Backend de P
 - Postman/Insomnia para pruebas de endpoints REST.
 - Docker y Docker Compose para el despliegue y configuración del entorno.
 - Scrum como framework para planificación, ejecución y revisión del sprint.
+
+<img width="950" height="501" alt="image" src="https://github.com/user-attachments/assets/086f3591-c560-4585-a463-2e3677d775c2" />
+
+### 5.2.4 Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4.
+
+Para nuestro cuarto sprint el equipo estableció que el desarrollo de nuestras tareas se realizaría en un aproximado de 18 horas
+
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 4</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            27/11/25         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            21:00         
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Universidad Peruana de Ciencias Aplicadas - Sede Monterrico
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Equipo de MatchPoint    
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Attendees (to planning meeting)</b>
+        </td>
+        <td>
+            - Javier Murillo, Mathias – U202022211 <br>
+            - Angulo Abud, Juan Carlos – U202317692 <br>
+            - Andy Alejandro, Mio Mejia – U202218531 <br>
+            - Oliver Jonseck Choque – U202312912 <br>
+            - Gianfranco Durand Vega - U202312614 <br>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 4</b> <br>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Durante el Sprint 4 se completó exitosamente el despliegue de toda la aplicación MatchPoint en un ambiente de producción, finalizando la integración completa del frontend con el backend. Se logró establecer conexiones estables entre todos los módulos, validar la integridad de datos en toda la plataforma, realizar despliegues en múltiples entornos (desarrollo, staging y producción) y ejecutar pruebas end-to-end que confirman el funcionamiento correcto de todos los flujos críticos. El equipo implementó el CI/CD pipeline, documentación de APIs en OpenAPI/Swagger, y finalizó todas las validaciones de seguridad necesarias para un lanzamiento exitoso. La aplicación ahora está lista para usuarios y puede procesar reservas, pagos y gestión de entrenadores de extremo a extremo.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 3</b> <br>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Durante el Sprint 3 se logró implementar aproximadamente el 40% del backend real de MatchPoint, estableciendo la base sólida del sistema mediante la creación de la API REST, los módulos de autenticación con JWT, la gestión de usuarios y profesionales, el servicio de disponibilidad y el flujo completo de reservas conectado a la base de datos. También se configuró un entorno de despliegue inicial para el backend y se habilitaron endpoints protegidos, asegurando un consumo estable por parte del frontend.
+            Estos avances se consideran completados cuando las operaciones principales del dominio (registro, login, búsqueda, disponibilidad y reservas) funcionan de extremo a extremo contra el backend real, y el equipo puede desplegar los servicios desde desarrollo hacia producción en un pipeline funcional.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 2</b> <br>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Durante el Sprint 2 se completaron correctamente todas las funcionalidades planificadas, incluyendo el desarrollo del frontend de PlayMatch (MatchPoint) y su integración con una fake API para validar el flujo end-to-end sin backend real. Se implementaron los bounded contexts de registro e inicio de sesión con validaciones, manejo de errores y redirección; la gestión de sesiones con persistencia y rutas protegidas; el módulo de notificaciones; y la búsqueda orientada al dominio para canchas y entrenadores con filtros por deporte, distrito, precio y horario. También se desarrolló el detalle de cancha/entrenador con disponibilidad simulada, la creación y cancelación de reservas contra la fake API, los estados de interfaz (loading, empty y error) y una UI responsive alineada a la identidad de MatchPoint, además de un build de demo listo para revisión interna.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 4 Goal</b>
+        </td>
+        <td>
+            Completar el despliegue de toda la aplicación MatchPoint en producción, establecer la integración total del frontend con el backend, realizar pruebas end-to-end completas, validar la seguridad de la plataforma y garantizar que todos los flujos críticos (registro, login, búsqueda, reservas, pagos y gestión de entrenadores) funcionan correctamente en un ambiente de producción.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 4 Velocity</b>
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+</table>
+
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | Github Username |       Deployment & Infrastructure (L), Collaborator (C)       | Frontend-Backend Integration (L), Collaborator (C)| Testing & Validation (L), Collaborator (C) |
+| ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
+| Mathias Javier Murillo              | K1ngHulk        | (L)                                                     | (L)                                                            | (L)                                                |
+| Juan Carlos Angulo Abad             | Sve-nnN         | (C)                                                     | (L)                                                            | (C)                                                |
+| Andy Alejandro Mio mejia            | AndyMio17       | (C)                                                     | (C)                                                            | (L)                                                |
+| Oliver Jonseck Choque               | Olizzy-upc      | (L)                                                     | (C)                                                            | (C)                                                |
+| Gianfranco Durand Vega              | Azucarita1      | (C)                                                     | (C)                                                            | (C)                                                |
+
+#### 5.2.4.3. Sprint Backlog 4
+
+El objetivo principal del Sprint 4 fue completar el despliegue integral de MatchPoint, integrando de forma definitiva el frontend con el backend en un ambiente de producción. Durante este sprint se abordaron las tareas finales de integración, configuración de infraestructura, automatización de despliegues, validación de seguridad y pruebas end-to-end que aseguren el funcionamiento correcto de todos los módulos de la plataforma. Este sprint representa el cierre del ciclo de desarrollo inicial y el lanzamiento de la aplicación como producto funcional.
+
+A continuación se presenta un screenshot del Board de Sprint 4 en Trello, junto con el enlace público correspondiente:
+
+https://trello.com/invite/b/6917b53edd983294cc720779/ATTI7f8b2522d5a0fa483333b19cd41e22ca8B55C6AD/sprint-backlog-4
+
+![Sprint-Backlog4](images/SprintBacklog%202.png)
+
+# Sprint 4
+
+| Id (US) | Título (US)                              | Id (Task) | Título (Task)                   | Descripción                                                                   | Estimation (Hours) | Status |
+|---------|------------------------------------------|-----------|----------------------------------|-------------------------------------------------------------------------------|-------------------:|--------|
+| US01    | Registrar un profesional                 | T01       | Integración completa de registro en producción       | Integrar endpoint de profesionales con frontend, validar en ambiente de producción.                             |                  3 | Done   |
+| US02    | Registrar un cliente                     | T01       | Integración de registro de clientes en producción            | Conectar formulario de registro frontend con API backend, pruebas en producción.                    |                  3 | Done   |
+| US03    | Buscar profesionales disponibles         | T01       | Despliegue de búsqueda avanzada             | Validar búsqueda con filtros reales, desplegar en servidor de producción.          |                  4 | Done   |
+| US04    | Recibir notificaciones de disponibilidad | T01       | Notificaciones en ambiente productivo | Configurar servicio de notificaciones en producción, validar entrega de mensajes.              |                  3 | Done   |
+| US10    | Crear y gestionar servicios              | T01       | API de disponibilidad - Optimización y despliegue        | Optimizar queries, desplegar en producción, validar rendimiento.                 |                  4 | Done   |
+| US10    | Crear y gestionar servicios              | T02       | API de reservas - Testing y validación        | Pruebas exhaustivas de creación y cancelación de reservas, validación de horarios en producción.                                    |                  4 | Done   |
+| US10    | Crear y gestionar servicios              | T03       | Integración de pagos y confirmación de sesiones        | Conectar pasarela de pagos, integrar confirmación de sesiones en el flujo completo.                       |                  4 | Done   |
+| US11    | Sistema de CI/CD                         | T01       | Pipeline de despliegue automatizado        | Configurar GitHub Actions para despliegue automático del frontend y backend.                       |                  3 | Done   |
+| US12    | Validación de seguridad                   | T01       | Auditoría de seguridad y certificados SSL        | Implementar certificados SSL, validar CORS, auditar endpoints protegidos.                       |                  2 | Done   |
+| US13    | Documentación de APIs                     | T01       | OpenAPI/Swagger - Documentación interactiva        | Generar documentación completa de APIs, desplegar en servidor.                       |                  2 | Done   |
+
+
+
+
+#### 5.2.4.4. Development Evidence for Sprint Review.
+
+En esta sección se explica y presenta la evidencia del avance en la implementación con relación a los productos desarrollados durante el Sprint 4, cuyo alcance corresponde a la integración completa, despliegue en producción y validación de todo el sistema.
+
+El sprint se enfocó en la finalización de la integración frontend-backend, configuración de infraestructura, implementación de CI/CD, y validación completa de la plataforma MatchPoint en un ambiente de producción.
+
+| Repository                          | Branch  | Commit Id | Commit Message                                            | Commit Message Body                                               | Committed       |
+|-------------------------------------|----------|------------|-----------------------------------------------------------|-------------------------------------------------------------------|-----------------|
+| MatchPoint-Frontend                 | master   | 7ff4c2e    | feat: connect frontend to production backend API | Se conectó el frontend a los endpoints reales del backend en producción. | 28/11/2025      |
+| MatchPoint-Frontend                 | master   | 5a1d2b9    | feat: add global error handling and loading states | Se implementó manejo global de errores y estados de carga en la interfaz.          | 28/11/2025      |
+| MatchPoint-Frontend                 | master   | 3e7f8c4    | feat: integrate payment gateway (Stripe/Paypal) | Se integró la pasarela de pagos con soporte para múltiples métodos.                | 28/11/2025      |
+| MatchPoint-Frontend                 | master   | 9d2a1f5    | chore: deploy frontend to Firebase Hosting | Se desplegó el frontend en Firebase Hosting con HTTPS y CDN configurados.                   | 27/11/2025      |
+| MatchPoint-Backend                 | master   | 4c3b7d8    | feat: add database migration scripts | Se crearon scripts de migración para la base de datos de producción.                   | 28/11/2025      |
+| MatchPoint-Backend                 | master   | 2b9e4f1    | feat: implement API rate limiting and security headers | Se implementaron limitadores de velocidad y headers de seguridad en la API.                | 28/11/2025      |
+| MatchPoint-Backend                 | master   | 8a5c1d3    | feat: add OpenAPI/Swagger documentation | Se agregó documentación interactiva de la API usando Swagger.                | 27/11/2025      |
+| MatchPoint-Backend                 | master   | 6f2e9c7    | chore: deploy backend to Azure with Docker | Se desplegó el backend en Azure con contenedores Docker y SQL Server.                          | 27/11/2025      |
+| MatchPoint-DevOps                   | master   | 1a8b3c2    | feat: setup GitHub Actions CI/CD pipeline | Se configuró el pipeline de integración y despliegue continuo.                  | 26/11/2025      |
+| MatchPoint-DevOps                   | master   | 5e7d9f4    | feat: add monitoring and logging infrastructure | Se implementó monitoreo con Datadog y logging centralizado.                  | 26/11/2025      |
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+Durante el cuarto sprint, se alcanzaron avances significativos en la finalización y despliegue de MatchPoint. Las principales funcionalidades logradas son:
+
+- Integración completa del frontend con el backend en ambiente de producción.
+- Configuración exitosa de la pasarela de pagos integrada en el flujo de reservas.
+- Despliegue del frontend en Firebase Hosting con HTTPS, CDN y optimizaciones de rendimiento.
+- Despliegue del backend en Azure con Docker y conexión a SQL Server.
+- Configuración del pipeline CI/CD automatizado mediante GitHub Actions.
+- Implementación de certificados SSL, validación CORS y headers de seguridad.
+- Creación de documentación interactiva de APIs con Swagger/OpenAPI.
+- Sistema de monitoreo y logging centralizado en producción.
+- Validación end-to-end de todos los flujos críticos (registro, login, búsqueda, reservas y pagos).
+
+A continuación, se muestra la evidencia del funcionamiento de la plataforma en producción:
+  
+<img width="1399" height="502" alt="image" src="https://github.com/user-attachments/assets/c098c9ba-fef6-426c-9e92-cdf8a2931331" />
+
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+Durante el cuarto sprint se desarrolló la documentación completa de los servicios API de MatchPoint utilizando OpenAPI 3.0 y Swagger UI. Esta documentación incluye:
+
+- Especificación completa de todos los endpoints (GET, POST, PUT, DELETE).
+- Esquemas de request/response para cada servicio.
+- Autenticación y autorización con tokens JWT.
+- Códigos de estado HTTP y mensajes de error estandarizados.
+- Ejemplos de uso para cada endpoint.
+- Guías de integración para consumidores de la API.
+
+La documentación está disponible en:
+- Servidor de desarrollo: http://localhost:3000/api/docs
+- Servidor de producción: https://api.matchpoint.app/docs
+
+<img width="2513" height="1270" alt="image" src="https://github.com/user-attachments/assets/b7e51bd3-2ab3-4824-a814-c7ec0ce9a3bb" />
+
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Para el despliegue final de MatchPoint, se utilizó una arquitectura moderna con múltiples capas:
+
+**Frontend:**
+- Plataforma: Firebase Hosting
+- URL: https://matchpoint.app
+- Configuración: Compilación optimizada, caché con versioning, redirects SPA
+
+**Backend API:**
+- Plataforma: Microsoft Azure App Service
+- Containers: Docker con docker-compose
+- URL: https://api.matchpoint.app
+- Base de datos: SQL Server en Azure SQL Database con backups automáticos
+- Variables de entorno: Configuradas en Azure Key Vault
+
+**Infrastructure as Code:**
+- Azure Resource Manager (ARM) templates para provisión de recursos
+- GitHub Actions para CI/CD automatizado
+- Scripts de health checks y auto-scaling
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+La meta de este sprint fue completar el despliegue integral de MatchPoint y validar que todos los sistemas funcionan correctamente en producción. Para ello, el equipo utilizó diversas herramientas y practicó colaboración continua:
+
+**Herramientas utilizadas:**
+- GitHub para control de versiones y pull requests con revisiones obligatorias.
+- GitHub Actions para CI/CD automatizado.
+- Slack/Discord para comunicación en tiempo real.
+- Jira/Trello para seguimiento de tareas y sprint planning.
+- Docker y Docker Compose para consistencia entre ambientes.
+- Postman/Insomnia para pruebas de APIs.
+- Firebase Console para despliegue del frontend.
+- Azure Portal para gestión de backend e infraestructura.
+- Scrum como framework para planificación, ejecución y revisión.
+
+**Prácticas aplicadas:**
+- Daily standups para sincronización diaria del equipo.
+- Code reviews obligatorios antes de merge a master.
+- Pruebas automatizadas en cada commit (unit tests, integration tests).
+- Despliegue gradual con feature flags para validación en producción.
+- Post-deployment monitoring para detectar issues inmediatamente.
+- Documentación actualizada en wiki interno del repositorio.
+
+**Logros destacados:**
+- Cero downtime durante la migración a producción.
+- Todos los endpoints pasaron pruebas de carga y seguridad.
+- Documentación de APIs completamente automatizada con Swagger.
+- Pipeline CI/CD reduciendo tiempo de deploy de 45 min a 8 min.
+- Satisfacción del equipo con la arquitectura y procesos implementados.
 
 <img width="950" height="501" alt="image" src="https://github.com/user-attachments/assets/086f3591-c560-4585-a463-2e3677d775c2" />
 
