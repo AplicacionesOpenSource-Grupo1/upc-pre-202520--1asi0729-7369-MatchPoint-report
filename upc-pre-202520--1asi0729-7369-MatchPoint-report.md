@@ -1152,7 +1152,7 @@ Está diseñada para guiar a los usuarios (deportistas, entrenadores y administr
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
-<img src="images/Database.png" alt="Database Image">
+<img src="images/imagen_DB_Nueva.png" alt="Database Image">
 
 <div style="page-break-after:always;"></div>
 
