@@ -1947,6 +1947,9 @@ El Sprint 1 permitió establecer las bases del proyecto mediante el diseño, des
 
 El despliegue exitoso de la landing page representa un primer paso fundamental para la validación del producto y la captación de usuarios iniciales. Además, este avance evidenció una comunicación efectiva y un trabajo colaborativo dentro del equipo, lo que sienta un precedente positivo para los siguientes sprints. En general, el Sprint 1 cumplió sus metas, aportando un entregable tangible y de calidad que sirve como base para futuras mejoras y nuevas funcionalidades.
 
+# About The team
+
+Video About the Team [https://drive.google.com/file/d/1cOseyarC8PKkouLnkpScsU-uJYhlL1qV/view?usp=sharing](https://drive.google.com/file/d/1cOseyarC8PKkouLnkpScsU-uJYhlL1qV/view?usp=sharing)
 
 # Bibliografía
 
