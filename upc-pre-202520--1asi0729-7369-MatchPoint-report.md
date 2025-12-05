@@ -40,9 +40,9 @@ U20214011 - Murillo, Mathias Javier
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-------: | :---------: | :----------------: | :----------------------:|
 |TB1|02/09/25|Javier Murillo, Mathias|Se añadió los capítulos 1 al 5|
-|TP1|08/10/25|Vega Durand, Gianfranco|Se añadió el sprint 2 y se arreglaron diversos capitulos|
-|TB2|11/11/25| Murillo, Mathias Javier|Se añadio el sprint 3|
-|TF1|04/12/25|Jonseck Choque, Oliver|Se añadio el sprint 4, video about the product, video about the team y se corrigieron diversos capitulos|
+|TP1|08/10/25|Vega Durand, Gianfranco|Se añadió el sprint 2 y se arreglaron diversos capítulos|
+|TB2|11/11/25| Murillo, Mathias Javier|Se añadió el sprint 3|
+|TF1|04/12/25|Jonseck Choque, Oliver|Se añadió el sprint 4, video about the product, video about the team y se corrigieron diversos capítulos|
 
 # Project Report Collaboration Insights
 
