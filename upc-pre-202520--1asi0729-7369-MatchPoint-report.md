@@ -32,8 +32,7 @@ U20214011 - Murillo, Mathias Javier
 **Octubre 2025**
 </div>
 
-
-
+<div style="page-break-after:always;"></div>
 
 # Registro de Versiones del Informe
 
@@ -56,6 +55,7 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 #### Link del repositorio de la Landing Page: 
 
+<div style="page-break-after:always;"></div>
 
 # Contenido
 
@@ -396,6 +396,8 @@ https://miro.com/welcomeonboard/MXdjbmptRWZsMStuTWpROTJsb2VDQS9yRlJ5bzV1YUo0S2J4
 - Especialistas que buscan herramientas digitales para gestionar horarios, reservas y pagos de manera eficiente.  
 - Entrenadores que ya trabajan de forma informal pero carecen de una plataforma centralizada y segura para organizar sus servicios.  
 
+<div style="page-break-after:always;"></div>
+
 # Capitulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
@@ -567,10 +569,11 @@ Todos mostraron un interés en nuestra propuesta cómo una fácil alternativa pa
 **Entrenador**
 <img src="images/AS-IS Entrenador.png" alt="Imagen de As-Is Scenario Map de un Entrenador">
 
+<div style="page-break-after:always;"></div>
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
-
 
 **Aficcionado**
 <img src="images/To be Scenario Aficionado.png" alt="Imagen de To Be Scenario Map de un Aficionado">
@@ -724,6 +727,7 @@ This section lists the prioritized product backlog items, including features, en
 | 15     | US15          | Recibir reseñas de jugadores    | Listado de reseñas con calificación y comentarios visibles en el perfil del entrenador                   | 3            |
 | 16     | US16          | Organizar torneos comunitarios  | Creación de torneos: reglas, equipos, fechas, inscripciones y fixtures                                  | 8            |
 
+<div style="page-break-after:always;"></div>
 
 # Capítulo IV: Product Design
 
@@ -1147,6 +1151,8 @@ Está diseñada para guiar a los usuarios (deportistas, entrenadores y administr
 ### 4.8.1. Database Diagram
 
 <img src="images/Database.png" alt="Database Image">
+
+<div style="page-break-after:always;"></div>
 
 ## 5.1. Software Configuration Management.
 
@@ -1940,6 +1946,7 @@ La meta de este sprint fue implementar los principales módulos del Backend de P
 | 02 | **Nombre:** Stephano Landauri<br> **Edad:**  20<br> **Duración:** 3:44 <br> **Link:** https://drive.google.com/file/d/1LFyljEu_MoexlI-wxAQuFea1qVqvkSiR/view?usp=sharing |
 | | **Resumen:** Se siente conforme con la pagina, su diseño y la estetica que posee, desearia que pueda realizar pagos mediante el aplicativo de yape |
 
+<div style="page-break-after:always;"></div>
 
 # Conclusiones
 
@@ -1947,9 +1954,13 @@ El Sprint 1 permitió establecer las bases del proyecto mediante el diseño, des
 
 El despliegue exitoso de la landing page representa un primer paso fundamental para la validación del producto y la captación de usuarios iniciales. Además, este avance evidenció una comunicación efectiva y un trabajo colaborativo dentro del equipo, lo que sienta un precedente positivo para los siguientes sprints. En general, el Sprint 1 cumplió sus metas, aportando un entregable tangible y de calidad que sirve como base para futuras mejoras y nuevas funcionalidades.
 
+<div style="page-break-after:always;"></div>
+
 # About The team
 
 Video About the Team [https://drive.google.com/file/d/1cOseyarC8PKkouLnkpScsU-uJYhlL1qV/view?usp=sharing](https://drive.google.com/file/d/1cOseyarC8PKkouLnkpScsU-uJYhlL1qV/view?usp=sharing)
+
+<div style="page-break-after:always;"></div>
 
 # Bibliografía
 
@@ -1972,6 +1983,8 @@ Video About the Team [https://drive.google.com/file/d/1cOseyarC8PKkouLnkpScsU-uJ
 - Resig, J., & Bibeault, B. (2013). *Secrets of the JavaScript Ninja* (2nd ed.). Manning Publications. [https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)
 
 - Robbins, J. N. (2018). *Learning web design: A beginner’s guide to HTML, CSS, JavaScript, and web graphics* (5th ed.). O’Reilly Media. [https://www.oreilly.com/library/view/learning-web-design/9781491960196/](https://www.oreilly.com/library/view/learning-web-design/9781491960196/)
+
+<div style="page-break-after:always;"></div>
 
 #Anexos
 
