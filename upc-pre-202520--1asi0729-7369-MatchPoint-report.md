@@ -65,9 +65,9 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 <div style="page-break-after:always;"></div>
 
-# Contenido
+## Contenido
 
-## Tabla de Contenidos
+### Tabla de Contenidos
 
 [Registro de versiones del informe](#registro-de-versiones-del-informe)
 
@@ -209,14 +209,12 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 # Student Outcome
 
-Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
-
-# Outcomes TB1 – Pilares del Producto y Landing Page  
+Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.  
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|--------------------------|------------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | **Mathias Javier Murillo (U202022211)**<br>**TB1**: Participé activamente en reuniones grupales mediante llamadas y coordinación por mensajería, lo que permitió exponer los pilares del producto de manera clara y coordinar los avances de la landing page.<br><br>**Juan Carlos Angulo Abud (U202317692)**<br>**TB1**: Aporté en la organización de ideas y la explicación de los mensajes principales, lo que ayudó al equipo a mantener un discurso claro sobre los objetivos del producto y su representación en la landing page.<br><br>**Mio Mejia Andy Alejandro (U202218531)**<br>**TB1**: Colaboré en la comunicación de los contenidos de la landing page, explicando la forma en que los pilares del producto se mostrarían para distintos públicos, lo que ayudó a alinear el enfoque del equipo.<br><br>**Oliver Jonseck Choque (U202312912)**<br>**TB1**: Expuse ideas relacionadas a la organización visual y conceptual, facilitando que la comunicación oral del equipo se tradujera en una landing page coherente y entendible.<br><br>**Gianfranco Durand Vega (U202312614)**<br>**TB1**: Participé en la comunicación y discusión grupal para asegurar que los pilares del producto estuvieran alineados con la propuesta, contribuyendo a un discurso claro y consensuado. | **Mathias Javier Murillo**<br>**TB1**: La comunicación oral constante permitió coordinar tareas de forma eficiente y transmitir con claridad los pilares del producto.<br><br>**Juan Carlos Angulo Abud**<br>**TB1**: La exposición clara de ideas contribuyó a que el equipo lograra alinear mensajes y objetivos en la landing page.<br><br>**Mio Mejia Andy Alejandro**<br>**TB1**: La comunicación clara facilitó la comprensión de los contenidos y mejoró la coherencia de la propuesta en la landing page.<br><br>**Oliver Jonseck Choque**<br>**TB1**: La intervención oral favoreció el orden en la estructura del proyecto y reforzó la efectividad del mensaje hacia la audiencia.<br><br>**Gianfranco Durand Vega**<br>**TB1**: La comunicación oral ayudó a mantener la coherencia entre los pilares del producto y el mensaje general del proyecto. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Mathias Javier Murillo (U202022211)**<br>**TB1**: Contribuí en la redacción de la propuesta de valor y en la descripción de los pilares del producto, asegurando un lenguaje claro y entendible en la landing page.<br><br>**Juan Carlos Angulo Abud (U202317692)**<br>**TB1**: Aporté en la redacción de los mensajes principales del proyecto, mejorando la claridad escrita de la propuesta en el documento y la landing page.<br><br>**Mio Mejia Andy Alejandro (U202218531)**<br>**TB1**: Participé en la redacción y ajuste de los contenidos escritos para que fueran comprensibles para diferentes públicos, adaptando el mensaje de los pilares del producto.<br><br>**Oliver Jonseck Choque (U202312912)**<br>**TB1**: Apoyé en la organización escrita de las ideas del equipo, contribuyendo a que la landing page reflejara los pilares de forma clara y ordenada.<br><br>**Gianfranco Durand Vega (U202312614)**<br>**TB1**: Colaboré en la redacción de los contenidos de la propuesta, asegurando coherencia y alineación en los textos del proyecto. | **Mathias Javier Murillo**<br>**TB1**: La comunicación escrita permitió expresar los pilares del producto de forma clara y accesible para la audiencia.<br><br>**Juan Carlos Angulo Abud**<br>**TB1**: La claridad en los textos fortaleció la efectividad del mensaje del proyecto y su comprensión en la landing page.<br><br>**Mio Mejia Andy Alejandro**<br>**TB1**: La participación en la redacción aseguró que los pilares del producto fueran transmitidos de manera simple y atractiva.<br><br>**Oliver Jonseck Choque**<br>**TB1**: La organización de las ideas escritas facilitó que la landing page comunicara con claridad los objetivos del proyecto.<br><br>**Gianfranco Durand Vega**<br>**TB1**: La coherencia en los contenidos escritos permitió mantener un mensaje uniforme y alineado con la propuesta del producto. |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | **Mathias Javier Murillo (U202022211)**<br>**TB1**: Participé activamente en reuniones grupales mediante llamadas y coordinación por mensajería, lo que permitió exponer los pilares del producto de manera clara y coordinar los avances de la landing page.<br><br>**Juan Carlos Angulo Abud (U202317692)**<br>**TB1**: Aporté en la organización de ideas y la explicación de los mensajes principales, lo que ayudó al equipo a mantener un discurso claro sobre los objetivos del producto y su representación en la landing page.<br>**TP**:Cree el front end basándome en un lenguague ubicuo que sea entendible para todos los usuarios.<br>**TB2**: Integré el backend usando los mismos bounded context que se crearon en el front end para lograr una transición sin problemas. Aplique algunas pruebas sencillas. <br>**TF**: Me encargué de la vinculación del front end y el backend mediante la integración de el JWT, links de conexión y subida de la base de datos a producción utilizando Azure.<br><br>**Mio Mejia Andy Alejandro (U202218531)**<br>**TB1**: Colaboré en la comunicación de los contenidos de la landing page, explicando la forma en que los pilares del producto se mostrarían para distintos públicos, lo que ayudó a alinear el enfoque del equipo.<br><br>**Oliver Jonseck Choque (U202312912)**<br>**TB1**: Expuse ideas relacionadas a la organización visual y conceptual, facilitando que la comunicación oral del equipo se tradujera en una landing page coherente y entendible.<br><br>**Gianfranco Durand Vega (U202312614)**<br>**TB1**: Participé en la comunicación y discusión grupal para asegurar que los pilares del producto estuvieran alineados con la propuesta, contribuyendo a un discurso claro y consensuado. | **Mathias Javier Murillo**<br>**TB1**: La comunicación oral constante permitió coordinar tareas de forma eficiente y transmitir con claridad los pilares del producto.<br><br>**Juan Carlos Angulo Abud**<br>**TB1**: La exposición clara de ideas contribuyó a que el equipo lograra alinear mensajes y objetivos en la landing page.<br><br>**Mio Mejia Andy Alejandro**<br>**TB1**: La comunicación clara facilitó la comprensión de los contenidos y mejoró la coherencia de la propuesta en la landing page.<br><br>**Oliver Jonseck Choque**<br>**TB1**: La intervención oral favoreció el orden en la estructura del proyecto y reforzó la efectividad del mensaje hacia la audiencia.<br><br>**Gianfranco Durand Vega**<br>**TB1**: La comunicación oral ayudó a mantener la coherencia entre los pilares del producto y el mensaje general del proyecto. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Mathias Javier Murillo (U202022211)**<br>**TB1**: Contribuí en la redacción de la propuesta de valor y en la descripción de los pilares del producto, asegurando un lenguaje claro y entendible en la landing page.<br><br>**Juan Carlos Angulo Abud (U202317692)**<br>**TB1**: Considero que la realización de esta landing page fue de vital importancia para crear una base de lo que vendría siendo mi startup y poder comunicar con éxito quienes somos y qué ofrecemos. <br>**TP**: El desarrollo del front end fue un gran paso para darle vida a nuestra idea, pudimos ver qué es lo que funcionaba y que no funcionaba de nuestros mockups y en base a eso realizamos los cambios necesarios. Se utilizó una interfaz clara y consisa y considero que adecuada para los usuarios finales. <br>**TB2**: El backend es la base de la lógica de nuestro proyecto y donde definiríamos las limitaciones que debe ingresar. Pienso que El liderar el desarrollo del backend me ayudó a poder tener más claras mis ideas y aprendí a comunicarlas de forma efectiva a mis compañeros. <br>**TF**: Ya con la vinculación del backend, pudimos ver nuestro proyecto cobrando vida. Ya con esta vinculación tuvimos un nuevo bloqueo el cual fue aprender a vender nuestra aplicación, por lo que tuvimos que crear un lenguaje ubicuo especial para nuestro publico objetivo que pueda ayudarnos a venderles nuestra solución. Esto me ha ayudado a tener más claridad sobre que debo tener muy en cuenta el público al que le intentamos vender.<br><br>**Mio Mejia Andy Alejandro (U202218531)**<br>**TB1**: Participé en la redacción y ajuste de los contenidos escritos para que fueran comprensibles para diferentes públicos, adaptando el mensaje de los pilares del producto.<br><br>**Oliver Jonseck Choque (U202312912)**<br>**TB1**: Apoyé en la organización escrita de las ideas del equipo, contribuyendo a que la landing page reflejara los pilares de forma clara y ordenada.<br><br>**Gianfranco Durand Vega (U202312614)**<br>**TB1**: Colaboré en la redacción de los contenidos de la propuesta, asegurando coherencia y alineación en los textos del proyecto. | **Mathias Javier Murillo**<br>**TB1**: La comunicación escrita permitió expresar los pilares del producto de forma clara y accesible para la audiencia.<br><br>**Juan Carlos Angulo Abud**<br>**TB1**: La claridad en los textos fortaleció la efectividad del mensaje del proyecto y su comprensión en la landing page.<br><br>**Mio Mejia Andy Alejandro**<br>**TB1**: La participación en la redacción aseguró que los pilares del producto fueran transmitidos de manera simple y atractiva.<br><br>**Oliver Jonseck Choque**<br>**TB1**: La organización de las ideas escritas facilitó que la landing page comunicara con claridad los objetivos del proyecto.<br><br>**Gianfranco Durand Vega**<br>**TB1**: La coherencia en los contenidos escritos permitió mantener un mensaje uniforme y alineado con la propuesta del producto. |
 
 
 <div style="page-break-after: always;"></div>
@@ -305,32 +303,32 @@ Sabremos que hemos tenido éxito cuando los deportistas utilicen la plataforma d
 
 #### 1.2.2.2. Lean UX Assumptions
 
-#### PlayMatch - Información del Producto
+##### PlayMatch - Información del Producto
 
-#### ¿Quién es el usuario?
+#####¿Quién es el usuario?
 
 Los usuarios de PlayMatch son principalmente dos grupos:
 
 1. Deportistas aficionados y equipos amateurs que buscan canchas disponibles y entrenadores confiables para organizar sus partidos y entrenamientos.  
 2. Entrenadores independientes que desean ofrecer sus servicios, aumentar su visibilidad, gestionar reservas y pagos de manera digital y profesional.  
 
-#### ¿Dónde encaja nuestro producto, en su trabajo o en su vida?
+##### ¿Dónde encaja nuestro producto, en su trabajo o en su vida?
 
 - Para los jugadores, PlayMatch se convierte en una herramienta central en su vida deportiva y social, al permitirles organizar partidos y entrenamientos de forma rápida y sin complicaciones.  
 - Para los entrenadores, es parte clave de su vida profesional, ayudándoles a conseguir más alumnos, administrar sus horarios, asegurar sus ingresos y construir una reputación online sólida.  
 
-#### ¿Qué problema resuelve nuestro producto?
+##### ¿Qué problema resuelve nuestro producto?
 
 PlayMatch resuelve la dificultad de encontrar canchas deportivas libres en horarios adecuados y entrenadores confiables.  
 También soluciona la falta de herramientas digitales que permitan a los entrenadores gestionar reservas, pagos y relaciones con sus clientes desde un solo lugar.  
 
-#### ¿Cuándo y cómo se utiliza nuestro producto?
+##### ¿Cuándo y cómo se utiliza nuestro producto?
 
 El producto se utiliza cuando un jugador desea organizar un partido, reservar una cancha o encontrar un entrenador disponible.  
 Los usuarios ingresan a la plataforma, buscan según ubicación, deporte o disponibilidad, reservan en tiempo real y realizan el pago en línea.  
 Por su parte, los entrenadores utilizan la plataforma para mostrar sus servicios, recibir reservas confirmadas y pagos, y dar seguimiento a sus clientes con estadísticas e historial.  
 
-#### ¿Qué características son importantes?
+##### ¿Qué características son importantes?
 
 - Buscador de canchas y entrenadores con filtros por ubicación, deporte, disponibilidad y reputación.  
 - Perfil detallado de cada entrenador, incluyendo experiencia, tarifas, horarios y valoraciones.  
@@ -339,7 +337,7 @@ Por su parte, los entrenadores utilizan la plataforma para mostrar sus servicios
 - Dashboard de gestión para los entrenadores con reportes de ingresos, reservas y clientes recurrentes.  
 - Organización de partidos y torneos con inscripciones online.  
 
-#### ¿Cómo debe verse y comportarse nuestro producto?
+##### ¿Cómo debe verse y comportarse nuestro producto?
 
 PlayMatch debe tener una interfaz clara, accesible y dinámica, transmitiendo energía y confianza.  
 El diseño debe estar enfocado en la facilidad de uso, permitiendo que tanto jugadores como entrenadores encuentren lo que necesitan en pocos clics.  
@@ -347,7 +345,7 @@ La navegación debe ser sencilla, los tiempos de carga rápidos y cada interacci
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-#### Hipótesis 1:
+####$ Hipótesis 1:
 Creemos que al desarrollar una plataforma web que conecte a deportistas aficionados con canchas y entrenadores independientes, lograremos facilitar el acceso a espacios deportivos y servicios de entrenamiento de manera más rápida y organizada. Esto resultará en una mayor eficiencia en la organización de partidos y entrenamientos, así como en un aumento de la satisfacción de los usuarios.
 
 **Business Outcome**: Aumento en el número de reservas confirmadas y pagos procesados en la plataforma.  
@@ -355,9 +353,7 @@ Creemos que al desarrollar una plataforma web que conecte a deportistas aficiona
 **User Outcome**: Mayor acceso a canchas libres y entrenadores disponibles, mejorando la experiencia deportiva.  
 **Feature**: Buscador de canchas y entrenadores con filtros por ubicación y disponibilidad, sistema de reservas y pagos integrados.  
 
----
-
-#### Hipótesis 2:
+##### Hipótesis 2:
 Consideramos que si proporcionamos a los entrenadores independientes una plataforma para ofrecer sus servicios con herramientas de gestión de agenda, pagos y visibilidad, aumentará su alcance, productividad y generación de ingresos.
 
 **Business Outcome**: Mayor cantidad de entrenadores registrados y mayor recurrencia en el uso de la plataforma.  
@@ -365,9 +361,8 @@ Consideramos que si proporcionamos a los entrenadores independientes una platafo
 **User Outcome**: Más oportunidades de captar alumnos y mejor gestión de sus servicios de entrenamiento.  
 **Feature**: Panel de administración para entrenadores, perfiles detallados, integración con calendario y sistema de pago seguro.  
 
----
 
-#### Hipótesis 3:
+##### Hipótesis 3:
 Suponemos que al permitir valoraciones y reseñas públicas de entrenadores y canchas, se generará un ecosistema de confianza que incentive a más deportistas a utilizar la plataforma y a los entrenadores a mantener altos estándares de calidad.
 
 **Business Outcome**: Incremento en la tasa de conversión de reservas y en la retención de usuarios.  
@@ -375,9 +370,8 @@ Suponemos que al permitir valoraciones y reseñas públicas de entrenadores y ca
 **User Outcome**: Mayor confianza al elegir canchas y entrenadores, y mejor reputación para quienes brindan un servicio de calidad.  
 **Feature**: Sistema de calificaciones, comentarios y reseñas públicas en los perfiles.  
 
----
 
-#### Hipótesis 4:
+##### Hipótesis 4:
 Creemos que si incorporamos funciones de organización de torneos y comunicación entre jugadores y entrenadores, mejorará la experiencia deportiva y fortalecerá la comunidad alrededor de la plataforma.
 
 **Business Outcome**: Aumento en la participación en torneos, mayor fidelización y mayor tiempo de uso en la plataforma.  
@@ -392,15 +386,15 @@ Creemos que si incorporamos funciones de organización de torneos y comunicació
 https://miro.com/welcomeonboard/MXdjbmptRWZsMStuTWpROTJsb2VDQS9yRlJ5bzV1YUo0S2J4dGp0eWxkMC83QzY4cnhzZXQzSTk4WmlOc2FORlZFS1VQbTN2VnNxdkNVUS8yN1ZBNmxHVVA4c09zU3YrV1dGaFlMMjVZbUpjRmpaNDV4NDU0YTUvbEFUWVk4UlJBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=781097795663
 
 
-# 1.3. Segmentos Objetivo
+## 1.3. Segmentos Objetivo
 
-#### 1. Deportistas Aficionados (usuarios en búsqueda de canchas y entrenadores)
+### 1. Deportistas Aficionados (usuarios en búsqueda de canchas y entrenadores)
 - Jóvenes y adultos que practican deportes de forma recreativa o amateur.  
 - Equipos de amigos o comunidades deportivas que necesitan reservar canchas para partidos regulares.  
 - Personas que desean mejorar su rendimiento físico y técnico con apoyo de entrenadores.  
 - Usuarios que buscan opciones accesibles y confiables para organizar entrenamientos o torneos.  
 
-#### 2. Entrenadores Independientes (proveedores de servicios deportivos)
+### 2. Entrenadores Independientes (proveedores de servicios deportivos)
 - Profesionales deportivos y entrenadores personales que ofrecen clases en disciplinas como fútbol, tenis, pádel, básquet, vóley, etc.  
 - Entrenadores independientes que desean aumentar su visibilidad y captar más alumnos.  
 - Especialistas que buscan herramientas digitales para gestionar horarios, reservas y pagos de manera eficiente.  
@@ -433,7 +427,7 @@ Antes de empezar con nuestro startup vamos a realizar un análisis de nuestros c
 
 Posterior al análisis de los competidores, hemos determinado ciertas estrategias que podemos aplicar para destacar.
 
-### Estrategias
+#### Estrategias
 
 **Confianza a base de reseñas**
 
