@@ -2221,8 +2221,9 @@ La meta de este sprint fue completar el despliegue integral de MatchPoint y vali
 <div style="page-break-after:always;"></div>
 
 ## 5.4 Video About-the-Product
+<img src="images/AbouthTheProduct.png" alt="AboutTheProduct">
 
-Video About the Team [https://drive.google.com/file/d/1cOseyarC8PKkouLnkpScsU-uJYhlL1qV/view?usp=sharing](https://drive.google.com/file/d/1cOseyarC8PKkouLnkpScsU-uJYhlL1qV/view?usp=sharing)
+Video About the Product [https://drive.google.com/file/d/1cOseyarC8PKkouLnkpScsU-uJYhlL1qV/view?usp=sharing](https://drive.google.com/file/d/1cOseyarC8PKkouLnkpScsU-uJYhlL1qV/view?usp=sharing)
 
 # Conclusiones
 
@@ -2232,7 +2233,11 @@ El despliegue exitoso de la landing page representa un primer paso fundamental p
 
 <div style="page-break-after:always;"></div>
 
-# About The team
+# Video About-the-Team
+
+<img src="images/AbouthTheTeam.png" alt="AboutTheProduct">
+
+Video About-the-Team[]()
 
 
 
