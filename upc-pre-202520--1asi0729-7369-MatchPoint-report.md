@@ -587,7 +587,6 @@ Todos mostraron un interés en nuestra propuesta cómo una fácil alternativa pa
 
 This section provides a collection of user stories that describe the functionalities and features from the end-user perspective.
 
-## Épicas - Gestión de Cuentas y Autenticación
 ## E01 - Gestión de Cuentas y Autenticación
 **Descripción:** Como usuario (jugador o entrenador), necesito un sistema completo de autenticación que me permita registrarme, iniciar sesión, mantener mi perfil actualizado y cerrar sesión de forma segura, para acceder de manera controlada a todas las funcionalidades de la plataforma.
 
@@ -2237,7 +2236,7 @@ El despliegue exitoso de la landing page representa un primer paso fundamental p
 
 <img src="images/AbouthTheTeam.png" alt="AboutTheProduct">
 
-Video About-the-Team[]()
+Video About-the-Team[https://drive.google.com/file/d/1mT_WtMT4as9m4IlroP90QaWTFdSA9uyu/view?usp=sharing](https://drive.google.com/file/d/1mT_WtMT4as9m4IlroP90QaWTFdSA9uyu/view?usp=sharing)
 
 
 
