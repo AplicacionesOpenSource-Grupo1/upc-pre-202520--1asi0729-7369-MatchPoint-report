@@ -51,9 +51,9 @@ El uso de repositorios específicos por subcomponente también contribuyó a man
 
 A continuación, se detallan los repositorios utilizados a lo largo del proyecto:
 
-#### Link del repositorio del Reporte: 
+#### Link del repositorio del Reporte: [https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/upc-pre-202520--1asi0729-7369-MatchPoint-report.md](https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/main/upc-pre-202520--1asi0729-7369-MatchPoint-report.md)
 
-#### Link del repositorio de la Landing Page: 
+#### Link del repositorio de la Landing Page: [https://aplicacionesopensource-grupo1.github.io/upc-pre-202520--1asi0729-7369-MatchPoint-Landing-Page/](https://aplicacionesopensource-grupo1.github.io/upc-pre-202520--1asi0729-7369-MatchPoint-Landing-Page/)
 
 <div style="page-break-after:always;"></div>
 
